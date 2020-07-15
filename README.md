@@ -1,2 +1,2 @@
 # Football-Position-Classifier
-Repo for football position classifier project
+Repo for in progress football position classifier project
