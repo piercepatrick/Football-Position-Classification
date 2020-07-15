@@ -1,0 +1,749 @@
+,first_name,last_name,state,grad_year,position,height,weight,forty_yard_dash,shuttle_run,three_cone,broad_jump,vertical_jump,profile_yn,conditions
+0,Blaine,Abbott,CA,2021,CB,"5'8""",156,5.173,4.394,7.94,90,20.6,,cloudy and chilly
+1,Adham,Abdelghabi,CA,2022,QB,"5'11""",154,5.032,4.564,7.789,86,24.7,,cloudy and chilly
+2,Talon,Abramowicz,CA,2019,RB,"5'8""",166,5.25,4.539,7.919,94,25.4,,cloudy and chilly
+3,Sebastian,Acevedo,CA,2020,QB,"5'9""",145,5.426,4.899,7.831,92,21.6,,cloudy and chilly
+4,Douglas,Adams 3Rd,CA,2018,TE,"5'11""",161,5.476,4.968,8.555,84,19.9,View Profile,cloudy and chilly
+5,Kevin,Adams Jr.,CA,2020,WR,"6'1""",157,5.155,4.396,7.55,110,23.2,,cloudy and chilly
+6,Joshua,Aguilar,CA,2019,RB,"5'6""",175,4.911,4.562,7.743,93,23.8,View Profile,cloudy and chilly
+7,Ezeeka,Aigbuza,CA,2019,CB,"5'11""",178,5.01,4.564,7.478,98,31.4,,cloudy and chilly
+8,Julian,Alcouffe,CA,2019,WR,"5'11""",161,4.778,4.556,7.209,106,24.1,,cloudy and chilly
+9,Justin,Aletor,AZ,2020,DT,"6'1""",210,5.07,,,101,24.6,,cloudy and chilly
+10,Ibrahim,Alivov,CA,2021,WR,"5'7""",124,5.28,4.928,8.044,97,23.8,View Profile,cloudy and chilly
+11,Parker,Allen,CA,2019,S,"5'10""",154,4.696,4.297,7.319,115,33.3,,cloudy and chilly
+12,Jelani,Al-Malik,CA,2019,RB,"5'7""",150,4.752,4.393,7.314,104,28.9,View Profile,cloudy and chilly
+13,Gerardo,Alvarez,CA,2019,OG,"6'0""",273,6.189,5.497,9.324,66,13.1,View Profile,cloudy and chilly
+14,Joaquin,Alvarez,CA,2019,QB,"5'10""",164,5.307,5.02,8.557,92,24.2,View Profile,cloudy and chilly
+15,Jose,Alvarez,CA,2019,MLB,"5'9""",153,5.215,4.687,7.948,101,23.9,View Profile,cloudy and chilly
+16,Lazaro,Alvarez,CA,2019,RB,"5'5""",135,5,4.481,7.5,87,22.3,View Profile,cloudy and chilly
+17,Christian,Ambriz,CA,2021,RB,"5'6""",174,5.536,5.075,8.657,64,16.7,,cloudy and chilly
+18,Gabriel,Andaya,CA,2020,S,"5'8""",145,5.14,4.506,7.949,92,23.4,View Profile,cloudy and chilly
+19,Jordan,Andersen,CA,2020,WR,"5'10""",148,4.643,4.222,7.392,103,26.2,View Profile,cloudy and chilly
+20,Trey,Andersen,UT,2019,TE,"6'4""",213,,4.498,7.427,106,,,cloudy and chilly
+21,Ezekiel,Anderson,CA,2021,MLB,"5'7""",143,5.245,4.807,8.011,76,15.2,View Profile,cloudy and chilly
+22,Maxwell,Anderson,CA,2019,CB,"5'10""",139,4.875,4.224,7.233,108,25.2,View Profile,cloudy and chilly
+23,Trevor,Anderson,CA,2020,QB,,,5.221,4.962,8.281,84,21,,cloudy and chilly
+24,Chandler,Andrew,CA,2019,S,"5'9""",171,5.332,4.718,7.919,98,23.9,,cloudy and chilly
+25,Nate,Andrews,CA,2020,C,"5'6""",213,5.747,4.969,8.463,85,20.8,View Profile,cloudy and chilly
+26,Vincent,Andrews Thacker,CA,2019,QB,"5'8""",163,,,,,,,cloudy and chilly
+27,Jalen,Apalit-Williams,CA,2020,WR,"6'0""",157,5.019,4.712,7.497,96,26.5,,cloudy and chilly
+28,Calel,Aramboles,IN,2020,RB,"5'10""",221,4.941,4.298,7.494,106,27.5,,cloudy and chilly
+29,Pablo,Arana,CA,2022,CB,"5'8""",120,5.438,4.874,8.188,87,20.8,View Profile,cloudy and chilly
+30,Zachary,Arcia,CA,2021,OG,"5'3""",171,5.703,5.341,8.818,88,17.5,View Profile,cloudy and chilly
+31,Bryan,Arellano,CA,2020,S,"5'6""",136,5.75,5.199,8.75,88,17.4,View Profile,cloudy and chilly
+32,Christian,Arellano,CA,2019,CB,"5'7""",125,6.16,5.134,9.14,72,16.5,View Profile,cloudy and chilly
+33,Michael,Arellano,CA,2019,DT,,289,6.248,5.602,9.321,78,17.1,View Profile,cloudy and chilly
+34,Andreas,Argumedo,CA,2021,C,"5'10""",256,6.134,5.638,9.276,80,17,,cloudy and chilly
+35,Winston,Ashby,CA,2020,DE,"6'3""",165,4.983,4.378,7.285,104,25,,cloudy and chilly
+36,Edward,Asi,CA,2019,OLB,"6'1""",168,4.979,4.341,7.324,96,23.3,,cloudy and chilly
+37,Marcus,Askew,CA,2019,S,"5'6""",134,,,,,,,cloudy and chilly
+38,Adrian,Atangan,CA,2020,MLB,"5'10""",187,4.996,4.445,7.558,103,26.8,,cloudy and chilly
+39,Josiah,Aumua-Tatum,CA,2022,OLB,"5'10""",142,5.663,5.055,8.14,80,18.7,View Profile,cloudy and chilly
+40,Rocky,Aven,CA,2020,OLB,"5'11""",178,4.999,4.395,7.709,98,25.3,,cloudy and chilly
+41,Andrew,Avila,CA,2020,C,"5'7""",236,5.81,5.309,9.069,75,14.8,View Profile,cloudy and chilly
+42,Brandon,Avila,CA,2021,DT,"5'9""",273,7.074,5.765,10.607,59,15.6,View Profile,cloudy and chilly
+43,Moises,Baena,CA,2019,WR,"5'7""",140,5.525,4.156,7.99,93,19.7,View Profile,cloudy and chilly
+44,Aavani,Bailey,CA,2019,QB,"5'9""",168,5.069,4.694,7.691,94,24.8,View Profile,cloudy and chilly
+45,Asi,Bailey,CA,2020,WR,"5'11""",161,4.939,4.509,7.496,98,23.7,View Profile,cloudy and chilly
+46,Levelle,Bailey,CA,2019,OLB,"6'2""",188,4.997,4.521,7.404,94,24.3,,cloudy and chilly
+47,George,Baker,CA,2022,RB,"5'8""",128,5.009,4.673,7.408,96,20.7,View Profile,cloudy and chilly
+48,Joseph,Baker,CA,2020,DT,"5'10""",221,5.72,4.487,8.85,73,19.5,View Profile,cloudy and chilly
+49,Kamari',Baker,CA,2020,CB,"5'11""",166,4.894,4.42,7.375,90,26,,cloudy and chilly
+50,Holden,Baldwin,CA,2020,WR,"6'2""",158,4.943,4.539,7.465,104,23.7,,cloudy and chilly
+51,Jalen,Ballesteros,CA,2021,DT,"5'5""",186,,,,,,,cloudy and chilly
+52,Sebastian,Barba,CA,2020,DE,"5'5""",138,5.416,4.848,8.102,76,20,View Profile,cloudy and chilly
+53,Payne,Barksdale,CA,2020,QB,"5'9""",139,4.774,4.222,7.573,101,24.7,View Profile,cloudy and chilly
+54,Trevor,Barnes,CA,2021,CB,"5'8""",139,5.476,5.068,7.968,92,19.8,,cloudy and chilly
+55,Jordan,Barton,CA,2020,QB,"5'10""",156,5.287,4.686,7.504,80,19.8,View Profile,cloudy and chilly
+56,Corey,Beck,CA,2020,WR,"5'10""",167,4.666,4.445,7.439,93,27.2,View Profile,cloudy and chilly
+57,Mason,Becker,CA,2020,WR,"5'11""",156,5.15,4.806,7.705,104,23.7,View Profile,cloudy and chilly
+58,Brenden,Bell,CA,2020,S,"5'9""",173,,,,,,,cloudy and chilly
+59,Isaiah,Berumen,CA,2021,OLB,"5'9""",120,,4.639,7.828,91,19.1,,cloudy and chilly
+60,Samuel,Betancourt,CA,2020,QB,"6'0""",156,5.443,4.817,7.834,92,20.5,View Profile,cloudy and chilly
+61,Reese,Bickart,CA,2019,WR,"6'0""",152,5.084,4.513,7.417,95,23.9,View Profile,cloudy and chilly
+62,Daniel,Bierhuizen,CA,2021,RB,"5'9""",144,5.215,4.925,7.984,90,18.5,,cloudy and chilly
+63,Jaylen,Blacksher,CA,2022,RB,"5'8""",164,5.208,4.62,7.613,83,21.8,,cloudy and chilly
+64,John,Blade,CA,2019,WR,"5'10""",152,4.781,4.814,8.187,92,23.5,View Profile,cloudy and chilly
+65,Amaru,Boozer,CA,2022,S,"5'8""",120,5.654,4.877,7.698,90,22.2,,cloudy and chilly
+66,Adrian,Borja,CA,2019,OLB,"5'8""",180,5.645,5.221,8.414,90,21.8,,cloudy and chilly
+67,Glenn,Borlongan,CA,2020,CB,"5'8""",133,4.897,4.349,7.948,107,24.5,,cloudy and chilly
+68,John,Boyce,CA,2020,WR,"5'3""",140,5.041,4.402,7.457,87,22.8,View Profile,cloudy and chilly
+69,Payton,Bradford,CA,2020,RB,"5'8""",167,5.199,4.465,7.508,111,23.8,View Profile,cloudy and chilly
+70,Devin,Bradley,CA,2020,RB,"5'10""",200,5.101,4.574,7.828,99,23.9,,cloudy and chilly
+71,Cade,Bragg,CA,2020,WR,"5'10""",170,5.211,4.601,7.757,104,25.9,View Profile,cloudy and chilly
+72,Julian,Brambila,CA,2021,S,"5'7""",150,5.349,4.328,7.64,85,25,,cloudy and chilly
+73,Mason,Brandy,CA,2020,CB,"5'11""",148,4.994,4.384,6.925,104,22.9,View Profile,cloudy and chilly
+74,Alec,Brannen,CA,2020,OLB,"5'10""",154,5.006,4.299,7.07,106,25.1,View Profile,cloudy and chilly
+75,Angel,Bravo,CA,2021,OT,"6'2""",298,5.869,5.63,8.748,77,17.9,View Profile,cloudy and chilly
+76,Wesley,Breault,CA,2020,WR,"5'9""",152,5.41,4.788,8.233,71,21.7,,cloudy and chilly
+77,Jermaine,Brewer,CA,2021,CB,"5'9""",133,5.164,4.822,7.83,80,24.7,View Profile,cloudy and chilly
+78,Walter,Bridgers 3Rd,CA,2019,C,"5'11""",329,6.572,4.899,9.254,71,15.4,,cloudy and chilly
+79,Daniel,Brierley,CA,2019,WR,"5'8""",169,4.902,4.49,7.601,102,25.9,View Profile,cloudy and chilly
+80,Jomarion,Briggs,CA,2022,CB,"5'10""",131,5.2,4.879,7.868,113,27.8,,cloudy and chilly
+81,Michael,Briscoe,CA,2020,WR,"6'0""",158,4.845,4.549,7.363,101,25.5,View Profile,cloudy and chilly
+82,Ethan,Bronson,CA,2020,DT,"6'1""",175,,4.839,8.144,94,21.4,View Profile,cloudy and chilly
+83,Bobby,Brooks,CA,2021,RB,"5'7""",133,4.89,4.619,7.555,99,23.4,View Profile,cloudy and chilly
+84,Zach,Brooks,CA,2021,MLB,"5'10""",190,5.269,5.119,8.332,88,20.4,,cloudy and chilly
+85,Tucker,Brown,CA,2021,MLB,"5'9""",170,5.654,4.825,8.487,81,17.7,View Profile,cloudy and chilly
+86,Trew,Bruce,CA,2019,WR,"5'10""",168,5.258,4.908,7.851,80,23.8,,cloudy and chilly
+87,Aaron,Bryant,CA,2019,WR,"5'10""",147,4.919,4.355,7.483,83,23.8,View Profile,cloudy and chilly
+88,Teddye,Buchanan,CA,2020,QB,"6'0""",184,,,,,,View Profile,cloudy and chilly
+89,William,Buck,CA,2019,DE,"6'0""",230,,,,,,,cloudy and chilly
+90,Lorenzo,Bullock,CA,2020,WR,"5'5""",163,5.269,4.669,8.049,84,19.4,View Profile,cloudy and chilly
+91,Ryan,Burch,CA,2020,TE,"6'1""",151,4.869,4.649,7.594,107,28.1,View Profile,cloudy and chilly
+92,Thomas,Burkett,CA,2020,OT,"6'3""",235,6.168,5.958,9.572,67,16.4,,cloudy and chilly
+93,Dejuan,Butler,CA,2020,CB,"5'11""",163,4.635,4.151,6.952,100,29.3,,cloudy and chilly
+94,Sirr,Butler,CA,2021,WR,"5'9""",,5.247,4.587,7.899,102,24.7,View Profile,cloudy and chilly
+95,Edgar,Cabrera,CA,2021,MLB,"5'7""",177,,5.057,7.396,88,21.8,View Profile,cloudy and chilly
+96,Josh,Callaway,CA,2021,WR,"6'0""",159,5.215,4.29,7.487,103,21.8,,cloudy and chilly
+97,Ricardo,Camacho,CA,2020,CB,"5'7""",142,4.903,4.588,7.911,98,21.6,View Profile,cloudy and chilly
+98,Dylan,Camp,CA,2022,CB,,,,,,,,,cloudy and chilly
+99,Jalen,Camp,CA,2020,S,,,,,,,,View Profile,cloudy and chilly
+100,Henry,Campion,CA,2020,WR,"5'10""",159,5.109,4.906,7.894,101,24.8,,cloudy and chilly
+101,Jason,Cannedy,CA,2019,OG,"6'0""",292,6.219,5.417,8.806,76,17.5,View Profile,cloudy and chilly
+102,Jalen,Canton,CA,2022,QB,"5'6""",136,5.665,4.831,8.175,85,19.3,View Profile,cloudy and chilly
+103,Moses,Cantu,CA,2019,OLB,"5'10""",134,5.08,4.778,7.626,101,24,View Profile,cloudy and chilly
+104,Christopher,Cantwell,CA,2020,OG,"6'0""",214,5.686,5.347,9.29,96,22.2,View Profile,cloudy and chilly
+105,Branden,Canty,CA,2019,S,"6'0""",175,5.071,4.7,7.738,98,25,View Profile,cloudy and chilly
+106,Bryan,Canty,CA,2019,MLB,"5'10""",172,5.065,4.67,7.865,91,24.5,,cloudy and chilly
+107,Eli,Card,CA,2021,S,"5'6""",122,4.864,4.262,7.129,98,26.3,View Profile,cloudy and chilly
+108,Derek,Cardenas,CA,2022,RB,"5'3""",111,5.142,4.694,8.027,95,22.6,,cloudy and chilly
+109,Isaiah,Cardenas,CA,2020,RB,"5'7""",125,4.952,4.584,7.594,103,22.3,View Profile,cloudy and chilly
+110,Oliver,Cardenas,CA,2020,WR,"5'7""",169,5.328,4.773,7.934,91,21.7,,cloudy and chilly
+111,Sam,Carlson,CA,2019,MLB,"6'2""",213,5.442,4.717,7.586,104,22.9,View Profile,cloudy and chilly
+112,Jonah,Carnell,CA,2021,OLB,"5'9""",153,4.709,4.339,7.139,112,26.4,View Profile,cloudy and chilly
+113,Julius,Carroll,CA,2022,RB,"5'4""",133,,,,,,,cloudy and chilly
+114,Ethan,Carson,NV,2020,DE,"6'0""",219,5.097,4.836,7.535,95,21.8,View Profile,cloudy and chilly
+115,Ben,Carter,CA,2020,S,"5'4""",119,5.272,4.813,8.109,98,23,View Profile,cloudy and chilly
+116,Josiah,Castellano,CA,2021,RB,"5'0""",117,5.383,4.979,8.196,87,19.6,View Profile,cloudy and chilly
+117,Angelo,Castellano-Martinez,CA,2021,RB,"5'7""",140,4.999,4.64,7.526,102,21.5,View Profile,cloudy and chilly
+118,Fernando,Castillo,CA,2019,RB,"5'7""",163,5.116,4.59,7.758,102,26.1,View Profile,cloudy and chilly
+119,Brenden,Casto,CA,2021,RB,"5'9""",156,5.023,4.449,7.549,101,25.3,View Profile,cloudy and chilly
+120,Tytrell,Celestine,CA,2021,RB,"5'9""",160,5.13,5.318,8.228,93,20.4,View Profile,cloudy and chilly
+121,Tyler,Chaffin,CA,2021,RB,"5'7""",128,4.521,4.58,7.483,,,,cloudy and chilly
+122,Kaden,Christensen,CA,2020,RB,"5'9""",163,,,,,,,cloudy and chilly
+123,Klaysen,Christianson,UT,2021,RB,"5'11""",182,5.081,4.35,7.441,,,,cloudy and chilly
+124,Jackson,Chryst,CA,2019,QB,"6'2""",189,5.035,4.537,7.612,112,24,View Profile,cloudy and chilly
+125,Jadon,Chun,CA,2020,OLB,"5'10""",213,5.881,5.132,8.541,85,19,View Profile,cloudy and chilly
+126,Gustavo,Cirqueira,CA,2020,OLB,"5'8""",136,4.97,4.463,7.331,108,28.3,View Profile,cloudy and chilly
+127,Dante,Clark,CA,2022,CB,"5'3""",103,5.637,4.73,8.111,90,19.5,View Profile,cloudy and chilly
+128,Randy,Clay,CA,2020,WR,"6'0""",151,4.948,4.663,7.52,107,22.4,,cloudy and chilly
+129,Nash,Clegg,CA,2019,DT,"5'11""",252,5.645,5.319,8.672,86,19,View Profile,cloudy and chilly
+130,David,Coker,CA,2019,RB,"5'8""",157,4.852,4.665,7.62,90,23,,cloudy and chilly
+131,Nicolaus,Colbert,CA,2019,RB,"5'10""",161,4.967,4.56,7.781,103,22.2,,cloudy and chilly
+132,Archie,Cole,CA,2020,RB,"5'9""",180,4.99,4.615,8.036,96,21.2,,cloudy and chilly
+133,Jonah,Coleman,CA,2022,WR,"5'7""",153,5.001,4.55,7.67,100,22.7,,cloudy and chilly
+134,Xavier,Coleman,CA,2019,RB,"5'8""",166,,,,,,View Profile,cloudy and chilly
+135,Jared,Collier,CA,2019,C,,,,5.171,8.805,87,20.4,View Profile,cloudy and chilly
+136,Joseph,Collyer,OR,2019,CB,"5'10""",164,4.834,5.342,7.522,101,26.1,View Profile,cloudy and chilly
+137,Jaden,Coltharp,CA,2020,RB,"5'6""",160,5.17,4.431,7.887,102,29,View Profile,cloudy and chilly
+138,Anthony,Contreras,CA,2019,WR,"6'0""",160,5.076,4.485,7.103,113,26.3,View Profile,cloudy and chilly
+139,Jesse,Contreraz,CA,2020,MLB,"5'7""",214,5.474,4.815,7.903,81,21.1,,cloudy and chilly
+140,Dustin,Coombs,CA,2020,S,"5'8""",134,5.096,4.551,7.392,102,22.9,View Profile,cloudy and chilly
+141,Andrew,Cordero,CA,2018,WR,"5'7""",142,5.388,4.521,7.563,91,18.4,View Profile,cloudy and chilly
+142,Scott,Cordova,WA,2018,WR,"5'9""",197,5.213,4.873,8.108,98,21.5,,cloudy and chilly
+143,Marcus,Corona,CA,2019,RB,"5'10""",200,5.045,4.696,7.427,101,26.4,,cloudy and chilly
+144,Jeremiah,Corpuz,CA,2020,OG,"5'10""",219,,,,,,,cloudy and chilly
+145,Roman,Correa,CA,2020,WR,"5'6""",127,5.065,4.593,7.743,92,19.4,View Profile,cloudy and chilly
+146,Deavon,Crawford,AZ,2020,RB,"5'10""",153,4.608,4.281,7.059,110,26.3,View Profile,cloudy and chilly
+147,Desean,Crawford,CA,2019,RB,"5'5""",155,,4.812,7.51,94,22.3,,cloudy and chilly
+148,Austyn,Crispell,CA,2021,TE,"6'2""",183,5.033,4.74,7.891,96,21.4,View Profile,cloudy and chilly
+149,Parker,Crouse,CA,2020,WR,"6'2""",160,5.007,,,,24.7,View Profile,cloudy and chilly
+150,Christipher,Crowell Jr,CA,2019,S,"5'9""",150,5.19,4.711,8.346,97,28,,cloudy and chilly
+151,Adrian,Cuevas,CA,2019,CB,"5'9""",156,4.789,4.328,7.155,112,29.1,View Profile,cloudy and chilly
+152,Ivan,Curiel Jr.,CA,2019,WR,"5'10""",185,5.423,4.816,7.74,99,25.9,,cloudy and chilly
+153,Ryan,Daggett,CA,2019,QB,"6'0""",165,4.958,4.439,7.572,100,25.1,View Profile,cloudy and chilly
+154,Trevis,Dampier,CA,2020,CB,"5'9""",139,5.129,4.634,7.949,90,22.2,View Profile,cloudy and chilly
+155,Caden,Datzman,CA,2020,WR,"5'11""",146,5.215,4.957,8.501,93,23.1,View Profile,cloudy and chilly
+156,Miles,Davie,CA,2019,WR,"6'0""",174,5.346,4.687,7.581,95,22.9,,cloudy and chilly
+157,Abram,Davis,CA,2020,DE,"5'8""",129,5.367,4.623,8.079,84,22,,cloudy and chilly
+158,Evien,Davis,CA,2021,OLB,"5'10""",202,5.481,4.731,7.879,87,20,,cloudy and chilly
+159,Robbie,Davis,CA,2019,WR,"6'4""",179,5.086,4.652,8.138,107,25.9,View Profile,cloudy and chilly
+160,Fynes,Davis-Carter,CA,2019,QB,"5'9""",169,5.139,4.951,8.298,95,22.6,View Profile,cloudy and chilly
+161,Jacob,De Jesus,CA,2020,WR,"5'6""",146,4.961,4.393,7.352,87,25,,cloudy and chilly
+162,Daniel,Decarli,CA,2019,C,"6'2""",218,5.903,5.513,8.444,88,18.2,View Profile,cloudy and chilly
+163,Dylan,Decelle,CA,2021,WR,"5'7""",119,,4.527,7.347,93,23.6,,cloudy and chilly
+164,Richard,Delapaz,CA,2020,S,"5'7""",138,5.09,4.518,7.586,92,19.7,View Profile,cloudy and chilly
+165,Michael,Delgado,CA,2020,C,,,,,,,,,cloudy and chilly
+166,Kyle,Deloney-Spencer,CA,2020,QB,"5'10""",179,5.103,4.906,7.581,105,23.3,View Profile,cloudy and chilly
+167,Jesse,Desa,CA,2020,DT,"5'6""",211,5.947,5.168,8.551,75,17.9,View Profile,cloudy and chilly
+168,Joell,Desa,CA,2022,DT,"5'5""",184,7.249,6.219,11.251,64,16.5,View Profile,cloudy and chilly
+169,Andres,Dewerk,CA,2020,DT,"6'6""",264,5.663,5.324,8.722,92,18.9,,cloudy and chilly
+170,Justin,Dewitt,CA,2019,OLB,"6'0""",197,5.138,4.817,7.933,96,23.1,View Profile,cloudy and chilly
+171,Joshua,Diaz,CA,2018,RB,"5'7""",151,5.175,4.815,7.953,89,25,View Profile,cloudy and chilly
+172,Tyler,Dickson,CA,2019,QB,"6'2""",193,4.975,4.675,8.739,,,,cloudy and chilly
+173,Youlas,Dickson,CA,2020,CB,"5'8""",149,4.968,4.41,7.388,112,25.1,,cloudy and chilly
+174,Wesley,Dimes,CA,2022,QB,"5'7""",150,5.792,4.455,8.74,84,18.6,,cloudy and chilly
+175,Clayton,Dippold,WA,2020,QB,"6'0""",185,5.338,4.713,,99,,,cloudy and chilly
+176,Jake,Dirkse,CA,2019,MLB,"6'2""",211,5.122,4.714,7.868,101,24.1,,cloudy and chilly
+177,Peyton,Dixon,NV,2019,RB,"5'10""",174,4.533,4.047,7.028,118,34.5,,cloudy and chilly
+178,Elijah,Dominguez,CA,2019,WR,"5'6""",147,4.948,4.443,7.405,101,21.4,View Profile,cloudy and chilly
+179,Josue,Dominguez,CA,2019,DT,"5'7""",230,6.407,5.701,9.566,70,14.5,,cloudy and chilly
+180,Dorian,Dougherty,CA,2020,WR,"5'8""",141,5.262,4.74,7.791,96,22.3,,cloudy and chilly
+181,Cole,Douglas,CA,2020,S,"5'7""",152,5.094,4.056,7.217,100,25.5,View Profile,cloudy and chilly
+182,Wyatt,Draeger,NV,2019,DE,"6'3""",237,5.326,4.782,8.035,96,21.1,,cloudy and chilly
+183,Darius,Drake,CA,2020,S,"5'10""",151,5.225,4.594,7.861,94,22,View Profile,cloudy and chilly
+184,Brandon,Ducusin,CA,2020,QB,"5'11""",174,5.128,4.54,7.596,106,23.4,View Profile,cloudy and chilly
+185,Leonel,Dujardin,CA,2019,WR,"5'11""",147,5.263,5.07,8.033,104,20.9,View Profile,cloudy and chilly
+186,Amari,Duncan,CA,2020,RB,"5'11""",148,4.764,4.496,,94,26.7,View Profile,cloudy and chilly
+187,Kelvin,Dunn Jr,CA,2019,CB,"5'9""",140,,,,,,View Profile,cloudy and chilly
+188,Austin,Dydo,CA,2022,WR,"5'7""",144,5.682,4.786,8.564,97,20,,cloudy and chilly
+189,Jeremiah,Earby,CA,2022,WR,"5'8""",111,5.456,4.794,7.667,103,20.4,,cloudy and chilly
+190,Jamai,East,CA,2022,FB,"5'11""",148,5.028,4.542,7.609,96,22.3,View Profile,cloudy and chilly
+191,Izayah,Ebuen,CA,2020,WR,"5'8""",126,5.256,4.664,7.514,99,23.9,,cloudy and chilly
+192,Isaiah,Edwards-Knox,CA,2021,RB,"5'4""",122,5.037,4.93,8.45,90,18.9,,cloudy and chilly
+193,Okey,Egbuziem,CA,2020,DT,"6'0""",251,5.659,5.2,8.822,90,20.9,View Profile,cloudy and chilly
+194,Armani,Eldridge,CA,2019,MLB,"6'0""",192,4.831,4.657,7.805,98,24.3,,cloudy and chilly
+195,Kelvin,Ellis,CA,2019,S,"5'10""",164,5.061,4.69,7.932,102,23.5,,cloudy and chilly
+196,Geordie,Emberling,CA,2019,DE,"6'2""",214,5.88,5.196,8.71,88,17.7,,cloudy and chilly
+197,Jaylan,English,CA,2020,S,"5'7""",157,5.146,4.656,8.274,107,27.2,,cloudy and chilly
+198,Vance,Eschenburg,CA,2020,QB,"5'11""",159,4.752,4.611,7.506,115,28.4,,cloudy and chilly
+199,Emmett,Espino,CA,2020,DT,"6'0""",276,,,,,,View Profile,cloudy and chilly
+200,Jesus,Estrada,CA,2019,OT,"5'10""",220,5.744,5.476,8.967,88,19.4,,cloudy and chilly
+201,Giovanni,Fabiani -Wyatt,CA,2019,S,"5'8""",161,5.015,4.509,7.847,107,27.2,,cloudy and chilly
+202,Matthew,Fadelli,CA,2021,LS,"5'7""",164,,4.789,7.742,94,,,cloudy and chilly
+203,Miguel,Farias,CA,2021,DE,"5'11""",206,5.917,5.226,8.815,79,19.8,,cloudy and chilly
+204,Mark,Feemster,CA,2020,RB,"5'5""",153,5.17,4.784,7.161,97,25.6,View Profile,cloudy and chilly
+205,Donovan,Fells,CA,2020,CB,"5'9""",147,4.999,4.614,7.307,108,26.2,View Profile,cloudy and chilly
+206,Andre,Fernandez,CA,2020,DE,"5'11""",195,5.606,5.004,8.3,78,17.1,,cloudy and chilly
+207,David,Fifita,CA,2021,RB,"5'7""",177,5.137,4.453,7.801,96,22.8,View Profile,cloudy and chilly
+208,Olive,Fifita,UT,2019,DE,"6'1""",210,5.006,4.888,7.839,100,25.8,,cloudy and chilly
+209,Genesis Siua,Finau,CA,2019,WR,"6'0""",172,5.28,4.726,7.903,98,23.4,,cloudy and chilly
+210,Taniela,Fisilau,CA,2019,RB,"5'9""",192,4.987,4.596,7.37,94,25.3,,cloudy and chilly
+211,Joseph,Fleming,CA,2020,DT,"6'2""",233,5.852,5.296,8.355,87,16.9,View Profile,cloudy and chilly
+212,Laron,Flippin,CA,2019,OLB,"6'1""",161,5.315,4.86,7.885,102,25.4,,cloudy and chilly
+213,Eric,Florence Jr.,CA,2022,RB,"5'3""",124,5.524,4.799,8.101,73,21.2,View Profile,cloudy and chilly
+214,Juan,Flores,CA,2019,OG,"5'9""",210,5.883,5.216,8.884,80,20.1,View Profile,cloudy and chilly
+215,Anthony,Ford,CA,2020,CB,"5'11""",143,5.03,4.42,7.542,94,26.6,View Profile,cloudy and chilly
+216,Boss,Foumai,CA,2021,DT,"5'10""",281,5.969,5.219,8.945,92,17.5,,cloudy and chilly
+217,Logan,Foumai,CA,2020,DT,"5'11""",265,5.536,5.005,8.306,94,24.2,View Profile,cloudy and chilly
+218,Jordon,Fox,CA,2018,CB,"6'2""",199,5.253,5.029,8.746,102,20.3,View Profile,cloudy and chilly
+219,Edward,Franco,CA,2019,S,"5'8""",151,5.324,4.712,7.719,98,23.3,View Profile,cloudy and chilly
+220,Alejandro,Fregoso,CA,2020,OLB,"5'10""",149,5.452,4.834,8.234,95,20.3,View Profile,cloudy and chilly
+221,Garrett,Freitas,CA,2019,OLB,"5'9""",138,,4.46,7.604,101,25.6,View Profile,cloudy and chilly
+222,Anthony,Frias,CA,2020,RB,"5'8""",171,4.94,4.574,7.361,107,25.3,View Profile,cloudy and chilly
+223,Tienne,Fridge,CA,2020,WR,"6'1""",166,,4.472,7.808,107,27.4,,cloudy and chilly
+224,Samuel,Fuentes,CA,2019,WR,"6'0""",146,4.751,4.598,7.855,105,24.3,,cloudy and chilly
+225,Diego Alexander Faitaua,Fuimaono,OR,2019,TE,"6'3""",233,5.162,4.934,8.086,95,21.7,,cloudy and chilly
+226,Marcus,Fulcher,CA,2019,RB,"5'7""",187,,,,,,View Profile,cloudy and chilly
+227,Jhames,Gabriana,CA,2019,DE,"5'9""",181,5.158,4.796,7.933,101,23.9,View Profile,cloudy and chilly
+228,Samuel,Gallardo,CA,2019,CB,"5'11""",172,5.24,4.302,7.349,102,25.6,View Profile,cloudy and chilly
+229,Marcus,Gallon,CA,2021,QB,"6'0""",174,5.066,4.51,7.215,105,25.8,,cloudy and chilly
+230,Kurt Jr.,Gandy,CA,2020,S,"5'11""",160,4.789,4.486,7.207,105,26.6,View Profile,cloudy and chilly
+231,Kyle,Gandy,CA,2022,RB,"5'0""",88,5.534,5.079,9.026,77,17.7,,cloudy and chilly
+232,Aaron,Garcia,CA,2020,OT,"6'4""",277,6.175,5.499,9.136,71,15.5,View Profile,cloudy and chilly
+233,Andrew,Garcia,CA,2019,WR,"5'10""",146,5.32,4.008,7.762,98,23.3,View Profile,cloudy and chilly
+234,Daniel,Garcia,CA,2019,RB,"5'9""",144,5.047,4.835,7.967,113,24.2,View Profile,cloudy and chilly
+235,Isaiah,Garcia,CA,2021,DE,"5'7""",173,5.491,4.936,8.521,78,17.9,View Profile,cloudy and chilly
+236,Ronnie,Garcia Jr,CA,2019,RB,"5'5""",164,4.943,4.799,7.786,101,31,,cloudy and chilly
+237,Semir,Gebremedhin,CA,2019,WR,"5'5""",113,5.797,4.957,8.297,90,19.9,View Profile,cloudy and chilly
+238,Dominic,Gelardi,CA,2020,MLB,"5'9""",187,,,,,,View Profile,cloudy and chilly
+239,Waheeb,Ghanem,CA,2020,CB,"5'3""",119,5.009,4.842,8.069,89,20.9,View Profile,cloudy and chilly
+240,Cole,Giambrone,CA,2019,TE,"6'1""",241,5.474,4.982,8.252,85.5,21.8,View Profile,cloudy and chilly
+241,Maximus,Gipson,CA,2020,DE,"5'11""",191,5.297,4.843,8.228,108,23.3,,cloudy and chilly
+242,Yost,Girvan,CA,2020,QB,"5'9""",153,4.984,4.469,7.518,95,24.7,View Profile,cloudy and chilly
+243,Dukari,Glover,CA,2021,RB,"5'8""",185,5.281,4.434,7.784,87,24.6,,cloudy and chilly
+244,Lc,Glover,CA,2020,MLB,"5'7""",196,5.226,4.878,8.176,97,21.9,View Profile,cloudy and chilly
+245,Obadiah,Godbolt,CA,2020,RB,"5'4""",128,4.59,4.499,7.259,102,26.8,,cloudy and chilly
+246,Tanner,Gomes,CA,2020,S,"5'9""",155,5.005,4.61,7.381,100,25.2,,cloudy and chilly
+247,Juan,Gomez,CA,2019,WR,"5'8""",130,5.01,4.711,7.9,102,23.5,View Profile,cloudy and chilly
+248,Devin,Gonsalves-Castro,CA,2019,QB,"5'10""",181,5.594,5.062,8.444,86.4,19.1,,cloudy and chilly
+249,Erick,Gonzalez,CA,2019,S,"5'7""",137,5.19,4.773,7.775,95,22.8,View Profile,cloudy and chilly
+250,Jorge,Gonzalez,CA,2020,CB,"5'4""",117,5.138,4.473,7.426,101,26.5,,cloudy and chilly
+251,Jorge,Gonzalez,CA,2020,OLB,"5'7""",154,5.384,4.506,7.934,95,22.4,View Profile,cloudy and chilly
+252,Nicholas,Gonzalez,CA,2019,MLB,"5'10""",181,5.446,4.698,7.954,93,22.5,,cloudy and chilly
+253,Jeremiah,Goode,CA,2019,OLB,"5'7""",170,5.133,4.793,7.583,90,26.1,,cloudy and chilly
+254,Cam,Goodrich,CA,2020,QB,"5'9""",145,4.831,4.5,7.539,107,26.8,,cloudy and chilly
+255,Cedric,Goudy,CA,2019,QB,"5'9""",217,5.406,4.848,,,,,cloudy and chilly
+256,Korey,Gray,CA,2020,RB,"5'10""",234,5.708,5.807,9.459,71,19.2,View Profile,cloudy and chilly
+257,Jhalen,Grayer,CA,2019,QB,"6'1""",157,5.165,4.717,8.01,97,23.9,View Profile,cloudy and chilly
+258,Keyon,Grayer,CA,2021,WR,"5'8""",117,5.47,4.806,8.175,,,,cloudy and chilly
+259,Enzo,Greco,CA,2019,CB,"5'8""",130,5.321,4.756,7.909,98,19.7,View Profile,cloudy and chilly
+260,Dylan,Greeson,CA,2021,MLB,"5'9""",151,5.464,4.711,7.776,100,21.7,,cloudy and chilly
+261,Peyton,Grimes,CA,2020,RB,"5'7""",121,5.168,4.81,7.889,103,21.7,View Profile,cloudy and chilly
+262,Zachary,Guillen,CA,2019,RB,"5'7""",137,5.206,4.521,7.483,97,23,View Profile,cloudy and chilly
+263,Hunter,Hall,CA,2020,RB,"5'7""",155,4.721,4.49,7.122,93,26.8,View Profile,cloudy and chilly
+264,Terrence,Hall,CA,2022,QB,"5'8""",124,,,,,,View Profile,cloudy and chilly
+265,Bo,Hannum,CA,2021,RB,"5'10""",163,4.986,4.451,7.341,92,21.7,View Profile,cloudy and chilly
+266,Drew,Hansen,OR,2020,MLB,"5'11""",175,,4.832,7.565,,,View Profile,cloudy and chilly
+267,Linken,Harmon,CA,2021,CB,"5'3""",110,5.465,4.84,8.178,82,19.1,View Profile,cloudy and chilly
+268,Myles,Harris,CA,2019,WR,"6'2""",160,5.188,4.461,7.766,100,25.4,,cloudy and chilly
+269,Ronnie,Harris,CA,2019,WR,"6'2""",199,,,,,,,cloudy and chilly
+270,Devin,Harwell,CA,2022,MLB,"5'4""",139,5.66,4.993,7.857,83,24.7,View Profile,cloudy and chilly
+271,Daniel,Havili,CA,2020,OLB,"5'11""",173,5.064,4.293,8.022,95,25.1,View Profile,cloudy and chilly
+272,Isaiah,Hawkins,CA,2022,WR,"5'7""",130,5.308,5.43,8.688,82,21.2,View Profile,cloudy and chilly
+273,Issac,Hawkins,CA,2022,RB,"5'7""",141,5.56,5.439,8.847,75,19.5,View Profile,cloudy and chilly
+274,Leonard,Hawkins Jr,CA,2019,DT,"6'0""",286,5.833,5.194,8.74,88,21.4,,cloudy and chilly
+275,Justin,Hayden,CA,2020,OLB,"5'9""",147,,4.674,8.046,94,20.7,,cloudy and chilly
+276,David,Hayward,CA,2019,OT,"6'4""",224,5.315,4.817,7.452,102,22.2,,cloudy and chilly
+277,Preston,Helu,NV,2019,MLB,"5'10""",202,4.906,4.172,7.614,103,25.2,View Profile,cloudy and chilly
+278,Jacoby,Henning,CA,2020,QB,"5'9""",151,4.87,4.562,7.486,105,27.4,,cloudy and chilly
+279,Charles,Henry Ii,CA,2020,DE,"5'9""",212,,,,,,,cloudy and chilly
+280,Anthony,Heredia,CA,2020,WR,"6'1""",175,5.236,5.093,8.195,96,20.4,View Profile,cloudy and chilly
+281,Rex,Hermano,CA,2021,RB,"5'8""",169,5.337,4.738,8.237,92,22.7,View Profile,cloudy and chilly
+282,Andrew,Hernandez,CA,2020,QB,"5'9""",169,5.05,4.558,7.824,94,21.6,,cloudy and chilly
+283,Chris,Hernandez,CA,2020,TE,"5'8""",186,5.457,4.811,7.962,78,20.4,View Profile,cloudy and chilly
+284,Erick,Hernandez,CA,2019,OT,"6'4""",381,7.06,6.245,10.258,57,10.5,View Profile,cloudy and chilly
+285,Jose,Hernandez,CA,2019,OLB,"5'6""",180,5.47,5.074,8.305,81,21.1,View Profile,cloudy and chilly
+286,Ruben,Hernandez,CA,2021,DE,"5'8""",184,5.365,4.878,8.162,88,22,View Profile,cloudy and chilly
+287,Samuel,Hernandez,CA,2022,RB,"5'5""",126,5.517,5.036,8.479,95,21,,cloudy and chilly
+288,Gabriel,Herrera,CA,2019,OLB,"5'7""",165,4.915,4.446,7.292,88,25.2,View Profile,cloudy and chilly
+289,Peyton,Hicks,CA,2019,QB,"5'11""",132,5.163,4.889,8.093,93,21.4,,cloudy and chilly
+290,Anthony,Hill,NV,2019,CB,"5'6""",133,4.796,4.445,7.373,99,23.6,View Profile,cloudy and chilly
+291,Clinton,Hill,CA,2019,DT,"6'3""",222,5.688,5.092,8.229,79,19.9,View Profile,cloudy and chilly
+292,Ernest,Holdman,CA,2020,WR,"5'10""",0,4.995,4.821,8.096,93,26.3,View Profile,cloudy and chilly
+293,Lincoln,Holland,CA,2021,DT,"5'11""",275,6.475,5.45,9.173,74,17.4,View Profile,cloudy and chilly
+294,Alonzo,Holmes,CA,2021,WR,"5'5""",113,5.422,4.861,8.12,92,22.9,View Profile,cloudy and chilly
+295,Jaxon,Horne,CA,2021,OLB,"6'0""",168,5.091,4.593,7.781,92,26.9,View Profile,cloudy and chilly
+296,Noah,Hoskinson,CA,2021,RB,"5'6""",182,5.451,4.819,7.983,86,18.4,,cloudy and chilly
+297,Aaron,Howard,CA,2019,WR,"5'9""",147,4.958,4.137,7.12,95,22.5,View Profile,cloudy and chilly
+298,Arrion,Hughes,CA,2021,WR,"6'2""",162,4.883,4.845,8.244,111,22.9,,cloudy and chilly
+299,Jared,Hughes,CA,2019,OLB,"6'1""",196,5.071,4.64,8.202,105,21.7,,cloudy and chilly
+300,Torrion,Hughes,CA,2022,RB,"5'8""",119,5.502,5.269,8.779,89,20,,cloudy and chilly
+301,Owen,Hugill,CA,2019,WR,"5'11""",152,4.945,4.542,7.408,101,24,View Profile,cloudy and chilly
+302,Colby,Humphries,CA,2020,RB,"5'4""",128,,4.674,7.505,85,,,cloudy and chilly
+303,Ryan,Hunt,CA,2019,OLB,"5'11""",197,,4.499,,113,27.1,View Profile,cloudy and chilly
+304,Josue,Hunter,CA,2019,QB,"6'0""",225,6.19,5.568,8.891,72,17.5,View Profile,cloudy and chilly
+305,Eric,Hupp,CA,2019,OLB,"5'10""",178,,4.943,,93,22,View Profile,cloudy and chilly
+306,Ryan,Hupp,CA,2019,WR,"5'9""",135,4.808,4.542,7.396,103,25.1,View Profile,cloudy and chilly
+307,Ryan,Hurley,CA,2019,RB,"5'7""",195,,4.38,7.581,103,26,,cloudy and chilly
+308,Reid,Huseman,CA,2019,RB,"5'8""",201,,,,103,,View Profile,cloudy and chilly
+309,Davante,Imhoff,CA,2020,WR,"5'7""",147,4.92,,7.793,105,26.4,View Profile,cloudy and chilly
+310,Justin,Incaprera,CA,2020,RB,"5'9""",147,4.976,4.476,7.394,97,26.7,,cloudy and chilly
+311,Niko,Iosefa,CA,2019,OLB,"5'7""",161,5.207,4.679,7.836,82,22.3,View Profile,cloudy and chilly
+312,Logan,Irwin,CA,2019,OLB,"5'11""",206,5.516,5.237,8.374,85,20.5,View Profile,cloudy and chilly
+313,Nathan,Iskander,CA,2020,RB,"5'7""",120,,4.488,7.597,79,19.6,View Profile,cloudy and chilly
+314,Tyrice,Ivy,CA,2021,WR,"5'11""",150,5.141,4.525,7.741,90,20.6,,cloudy and chilly
+315,Devaughn,Jackson,CA,2021,DT,"5'10""",149,4.856,4.811,7.812,98,25.3,,cloudy and chilly
+316,Elijah,Jackson,CA,2022,WR,"6'0""",168,5.28,4.86,7.947,82,21.4,,cloudy and chilly
+317,Jayden,Jackson,CA,2020,MLB,"5'10""",182,5.327,4.774,7.823,95,22.6,View Profile,cloudy and chilly
+318,Rayshawn,Jackson,CA,2020,QB,"5'11""",173,4.786,4.222,7.503,105,27.4,View Profile,cloudy and chilly
+319,Jordan,Jacob,CA,2020,OG,"5'9""",257,6.32,5.669,9.209,79,18.6,View Profile,cloudy and chilly
+320,Avant,Jacobs,CA,2020,WR,"5'7""",154,4.672,4.356,7.473,109,27.6,View Profile,cloudy and chilly
+321,Anthony,James,CA,2019,MLB,"6'2""",197,4.927,4.698,7.869,105,25.7,View Profile,cloudy and chilly
+322,Dominique,James,CA,2019,WR,"5'8""",131,5.049,4.386,7.306,93,23.6,,cloudy and chilly
+323,Maurice,Jamison,CA,2021,OLB,"6'1""",165,5.008,4.653,8.076,107,24.8,,cloudy and chilly
+324,Emonie,Jenkins,CA,2019,RB,"5'10""",148,,,,,,,cloudy and chilly
+325,Tommy,Jenkins,CA,2019,WR,"5'11""",156,,,,,,,cloudy and chilly
+326,Branden,Jennings,CA,2020,WR,"5'7""",142,4.897,4.444,7.576,104,26.3,View Profile,cloudy and chilly
+327,Coby,Jimenez,CA,2020,WR,"5'8""",146,5.017,4.526,7.439,90,24.4,View Profile,cloudy and chilly
+328,Ivan,Jimenez,CA,2019,WR,"5'6""",123,5.487,5.136,8.706,91,22.8,View Profile,cloudy and chilly
+329,Adam,Johnson,CA,2020,OT,"5'10""",265,5.877,5.472,8.787,73,19.3,View Profile,cloudy and chilly
+330,Alex,Johnson,CA,2019,RB,"5'10""",181,,,,,,,cloudy and chilly
+331,De’Andre,Johnson,CA,2020,QB,"5'9""",200,5.514,5.2,8.417,90,20.5,View Profile,cloudy and chilly
+332,Larry,Johnson,CA,2020,WR,"5'9""",127,5.054,4.32,7.259,108,26.3,View Profile,cloudy and chilly
+333,Malik,Johnson,CA,2019,S,"6'0""",184,,4.221,7.437,93,27,,cloudy and chilly
+334,Elliott,Johnson Jr,CA,2019,DE,"5'11""",266,5.795,4.95,8.893,72,19,,cloudy and chilly
+335,Jekob`,Jones,CA,2021,RB,"5'9""",199,4.839,4.831,7.898,105,26.5,,cloudy and chilly
+336,Charles,Jones Iii,CA,2020,MLB,"5'10""",153,5.473,4.655,8.209,80,19.3,View Profile,cloudy and chilly
+337,Elijah,Jordan,CA,2020,MLB,"6'0""",239,,5.428,8.965,78,17.3,,cloudy and chilly
+338,Mason,Jordan,CA,2021,MLB,"5'6""",193,5.542,5.238,8.54,70,17.2,View Profile,cloudy and chilly
+339,Randy,Jordan Jr.,CA,2019,OLB,"5'9""",153,4.631,4.462,7.267,118,32.6,View Profile,cloudy and chilly
+340,Fabian,Joseph,CA,2019,DT,"5'7""",178,4.815,4.407,7.614,104,25.2,View Profile,cloudy and chilly
+341,Wardy,Joubert,CA,2020,DE,"6'1""",148,5.373,4.625,7.933,97,20.4,View Profile,cloudy and chilly
+342,Juan,Juarez,CA,2020,C,"5'9""",225,5.489,5.111,8.626,88,21.7,,cloudy and chilly
+343,Adrian,Juilland-Johnson,CA,2019,WR,"6'2""",176,4.902,4.21,7.34,101,26.5,,cloudy and chilly
+344,Rusty,Kamitono,CA,2020,MLB,"5'5""",166,5.332,4.668,7.706,94,20.4,,cloudy and chilly
+345,Hunter,Kaupiko,NV,2020,MLB,"5'11""",213,4.983,4.503,7.459,112,26.1,View Profile,cloudy and chilly
+346,Andrew,Kennedy,CA,2020,OT,"6'0""",229,6.145,5.215,9.206,82,15.6,,cloudy and chilly
+347,John,Kerick,CA,2019,DE,"5'10""",238,5.244,4.643,7.895,107,26.7,View Profile,cloudy and chilly
+348,Evan,Kettles,CA,2019,MLB,"6'0""",180,5.233,4.895,8.036,99,22.6,View Profile,cloudy and chilly
+349,Howard,Knight,CA,2019,OG,"5'7""",252,6.214,5.776,9.91,60,14.5,View Profile,cloudy and chilly
+350,Anikait,Konatalapalli,CA,2020,QB,"5'6""",164,,,,,,View Profile,cloudy and chilly
+351,Jonah,Kosakiewicz,CA,2019,QB,"6'1""",174,4.803,4.484,7.725,113,29.4,,cloudy and chilly
+352,Jonathan,Kosmorsky,CA,2020,OT,"5'8""",296,,,,,,,cloudy and chilly
+353,Kyle,Kraten,CA,2019,DE,"6'4""",231,5.444,4.849,7.626,82,21.7,,cloudy and chilly
+354,Jacob,Krzeminski,CO,2019,OLB,"6'0""",175,,,,,,View Profile,cloudy and chilly
+355,Declan,Kyler,AZ,2019,OG,"6'2""",275,5.627,5.064,,,,View Profile,cloudy and chilly
+356,Raymond I,La Rue,CA,2019,WR,"5'7""",137,5.512,4.984,,91,19.6,View Profile,cloudy and chilly
+357,Robert,Lacy Iii,CA,2020,QB,"5'9""",140,5.178,4.29,8.233,95,24,,cloudy and chilly
+358,Raemani,Lafo,CA,2019,DE,"5'10""",178,5.534,4.905,7.823,88,19.2,View Profile,cloudy and chilly
+359,Mason,Laird,CA,2021,S,"5'1""",110,5.58,4.8,7.726,81,21.5,,cloudy and chilly
+360,Brennon,Lamee,CA,2021,WR,"5'11""",161,4.995,4.743,7.306,111,31.3,,cloudy and chilly
+361,Justin,Lamson,CA,2021,QB,"6'1""",170,4.961,4.766,7.539,102,22.1,,cloudy and chilly
+362,D'Antoni,Lang,CA,2019,OLB,"5'9""",143,5.076,4.857,8.09,107,27.4,,cloudy and chilly
+363,D'Von,Lang,CA,2019,CB,"5'11""",146,4.778,4.567,7.3,98,26.1,,cloudy and chilly
+364,Tredell,Larkins,CA,2019,MLB,"6'0""",217,,,,,,View Profile,cloudy and chilly
+365,Koby,Larson,CA,2019,WR,"6'1""",167,5.166,4.732,7.986,101,22.4,,cloudy and chilly
+366,Cory,Latin,CA,2020,S,"5'6""",139,5.338,4.576,7.733,81,21.9,,cloudy and chilly
+367,Dean,Lau,CA,2019,LS,"5'9""",166,4.881,4.691,7.918,109,26.8,View Profile,cloudy and chilly
+368,Curtis,Lauti,CA,2019,RB,"5'10""",179,4.772,4.489,7.422,104,23.7,,cloudy and chilly
+369,Thai,Le,CA,2020,QB,"5'7""",139,5.475,4.589,8.009,85,18.8,View Profile,cloudy and chilly
+370,Azaan,Ledbetter,CA,2021,QB,"5'11""",158,5.13,4.986,7.987,98,20.5,View Profile,cloudy and chilly
+371,Nicolas,Ledesma,CA,2020,WR,"5'8""",153,5.375,4.799,7.905,92,21.9,,cloudy and chilly
+372,Jake,Levato,CA,2019,MLB,"5'10""",193,5.129,4.61,7.794,103,30,,cloudy and chilly
+373,Ryan,Lewis,CA,2022,QB,"5'10""",148,,,,,,,cloudy and chilly
+374,Tanner,Lewis,CA,2021,RB,"5'11""",149,5.342,4.929,8.185,94,20.7,View Profile,cloudy and chilly
+375,Landon,Lingenfelter,CA,2020,WR,"5'7""",142,5.036,4.52,7.476,89,25,View Profile,cloudy and chilly
+376,Stephen,Lipe,CA,2021,OLB,"5'9""",153,5.546,5.184,8.033,84,20.7,,cloudy and chilly
+377,Brail,Lipford,AZ,2020,OLB,"5'9""",145,4.79,4.059,,116,28.8,,cloudy and chilly
+378,Gabe,Liu,CA,2019,CB,"5'9""",165,,,,97,31.9,,cloudy and chilly
+379,Nathan,Liu,CA,2020,WR,"5'9""",135,5.163,4.699,7.626,95,20.3,,cloudy and chilly
+380,Alan,Lloyd,CA,2020,CB,"5'7""",130,4.944,4.733,8.048,96,22.6,,cloudy and chilly
+381,Jesus,Loera,CA,2019,TE,"5'11""",186,5.433,5.027,8.142,83,21.9,,cloudy and chilly
+382,Francisco,Lomeli,CA,2020,CB,"5'8""",142,4.924,4.566,7.757,98,32.7,View Profile,cloudy and chilly
+383,Jayvee,Long,CA,2019,OLB,"5'9""",185,5.066,4.718,7.73,102,22.4,View Profile,cloudy and chilly
+384,Marcello,Longstreth,CA,2019,OLB,"5'11""",161,4.73,4.266,7.452,107,22.3,,cloudy and chilly
+385,Trey,Longstreth,CA,2019,OLB,"5'11""",148,4.722,4.605,7.479,102,22.3,,cloudy and chilly
+386,Adrian,Lopez,CA,2022,DE,"5'10""",203,6.628,5.656,9.572,75,17.9,View Profile,cloudy and chilly
+387,Angel,Lopez,CA,2020,DE,"5'7""",139,5.081,4.38,7.796,95,26.2,View Profile,cloudy and chilly
+388,Isaiah,Loretto,CA,2020,S,"5'8""",132,5.226,4.629,7.48,92,21.6,View Profile,cloudy and chilly
+389,Devin,Low,CA,2019,QB,"6'0""",151,5.008,4.318,7.034,113,27.4,View Profile,cloudy and chilly
+390,Kristopher,Lucy,CA,2021,WR,"5'9""",136,5.002,4.745,8.131,98,23.2,,cloudy and chilly
+391,Joseph,Luna,CA,2020,OLB,"5'10""",197,5.029,4.717,7.805,103,25.5,View Profile,cloudy and chilly
+392,Johnny,Lunsford,CA,2019,C,"6'2""",279,6.296,5.465,9.049,80,16.8,View Profile,cloudy and chilly
+393,Parker,Luthy,NV,2021,OLB,"5'9""",163,5.332,4.565,7.707,94,21.8,,cloudy and chilly
+394,Aukilani,Ma Wong,CA,2019,OT,"6'0""",298,5.853,5.505,9.036,86,19.5,View Profile,cloudy and chilly
+395,Aidan,Mack,CA,2020,WR,"6'3""",170,5.093,4.615,7.49,98,24.1,,cloudy and chilly
+396,Anthony,Madrigal,CA,2020,DE,"5'10""",196,5.347,4.884,7.856,98,21.3,View Profile,cloudy and chilly
+397,Anthony,Magri,CA,2019,S,"5'11""",155,4.588,4.359,7.603,104,27.3,,cloudy and chilly
+398,Tobias,Major,CA,2018,S,"5'9""",141,5.351,5.197,8.395,85,22.2,View Profile,cloudy and chilly
+399,Okoye,Mangrum,CA,2021,DE,"6'0""",151,5.446,5.114,8.661,,,View Profile,cloudy and chilly
+400,Alex,Mansell,CA,2020,CB,"5'8""",152,4.916,4.612,7.76,105,26.6,,cloudy and chilly
+401,Issac,Mariscal,CA,2019,DT,"5'9""",297,7.654,6.622,10.703,57,12.3,View Profile,cloudy and chilly
+402,Noah,Marshall,CA,2019,WR,"6'2""",170,4.984,4.665,7.724,102,21.3,,cloudy and chilly
+403,Anthony,Martin,CA,2019,RB,"5'8""",143,5.014,4.684,7.7,108,26.2,,cloudy and chilly
+404,Jordan,Martin,CA,2020,OLB,,197,,,8.201,91,26.6,,cloudy and chilly
+405,Adrian,Martinez,CA,2019,C,"5'6""",149,5.301,4.831,8.284,81,18.6,View Profile,cloudy and chilly
+406,Bradley,Martinez,CA,2020,WR,"5'11""",142,5.751,5.152,8.163,86,19.9,View Profile,cloudy and chilly
+407,Chris,Martinez,CA,2019,OLB,"6'2""",178,5.326,4.709,8.41,101,22.6,,cloudy and chilly
+408,Christopher,Martinez,CA,2018,DT,"5'10""",264,6.936,6.647,10.847,64,14,View Profile,cloudy and chilly
+409,Cody,Martinez,CA,2021,RB,"5'3""",121,5.414,4.529,8.165,88,19.5,View Profile,cloudy and chilly
+410,Dominic,Martinez,CA,2020,OLB,"5'6""",165,5.36,4.705,8.019,100,20.8,,cloudy and chilly
+411,Stephen,Martin-Stell,CA,2019,RB,"5'10""",166,4.908,4.777,7.87,97,25.1,View Profile,cloudy and chilly
+412,Griffin,Marx,CA,2019,MLB,"5'11""",183,5.608,4.921,8.043,86,19.8,View Profile,cloudy and chilly
+413,Jacob,Masihi,CA,2020,DE,"5'10""",219,5.548,5.144,8.081,85,17.7,View Profile,cloudy and chilly
+414,Quatama,Massaquoi,CA,2021,WR,"5'8""",158,5.004,4.694,7.63,115,26.2,,cloudy and chilly
+415,Dylan,Matoza,CA,2020,QB,"5'10""",131,5.462,5.3,8.183,90,20.6,,cloudy and chilly
+416,Devonte,Matthew,CA,2019,OLB,"6'2""",246,5.367,4.844,7.959,100,23.5,View Profile,cloudy and chilly
+417,Brian,Matthews,CA,2019,CB,"5'9""",156,4.798,4.329,7.3,119,28.7,,cloudy and chilly
+418,Joshua,Maughan Jr,CA,2021,WR,"5'8""",136,5.198,4.716,8.261,93,19.5,,cloudy and chilly
+419,Omar,Maxwell,CA,2020,DT,"5'10""",245,,,,,,,cloudy and chilly
+420,Charlie,Mcbride,CA,2019,TE,"6'2""",230,,,,,,,cloudy and chilly
+421,Johnte,Mccdowell,CA,2021,QB,"5'10""",129,5.082,4.546,7.891,97,23.8,View Profile,cloudy and chilly
+422,Javier,Mccormick,CA,2019,OG,"5'7""",263,6.116,5.273,8.927,72,14.9,View Profile,cloudy and chilly
+423,Terell,Mccoy,CA,2020,WR,"6'0""",161,5.04,4.849,7.656,104,24.6,View Profile,cloudy and chilly
+424,Safdar,Mccrary,CA,2022,QB,"5'11""",165,4.915,4.632,7.513,102,30.9,,cloudy and chilly
+425,Larry,Mcdowell Iii,CA,2019,MLB,"5'10""",210,5.422,5.116,8.398,97,21.3,,cloudy and chilly
+426,Isaiah,Mcelvane,CA,2020,RB,"5'11""",163,4.801,4.447,,116,,View Profile,cloudy and chilly
+427,Daylin,Mclemore,CA,2020,QB,"6'2""",181,5.22,4.987,7.977,90,22,View Profile,cloudy and chilly
+428,Dawaiian,Mcneely,CA,2019,CB,"6'1""",182,4.709,4.183,7.209,122,33.8,View Profile,cloudy and chilly
+429,James,Mcnorton,CA,2020,DE,"6'3""",214,5.216,,,,,,cloudy and chilly
+430,Fraser,Meagher,CA,2019,DE,"6'1""",165,5.629,4.824,8.411,74,19.8,View Profile,cloudy and chilly
+431,Anthony,Meissner,CA,2019,QB,"5'11""",143,5.135,4.757,7.891,93,20.5,View Profile,cloudy and chilly
+432,Brayden,Mell,CA,2019,TE,"6'3""",210,5.512,5.024,8.229,90,20.7,,cloudy and chilly
+433,Nicholas,Mello,CA,2021,MLB,"5'8""",174,5.81,4.957,8.797,82,16.7,,cloudy and chilly
+434,Colby,Melton,NV,2019,CB,"5'9""",134,4.727,4.162,6.987,90,24.8,View Profile,cloudy and chilly
+435,Alexis,Mendieta,CA,2019,LS,"5'9""",205,5.627,5.044,8.317,78,18.2,View Profile,cloudy and chilly
+436,Chase,Meniatis,CA,2020,MLB,"5'9""",198,,,,,,View Profile,cloudy and chilly
+437,Travis,Meyer,CA,2021,RB,"5'9""",160,5.044,4.326,7.257,97,23.2,View Profile,cloudy and chilly
+438,Quinton,Michel,CA,2021,S,"5'9""",134,5.148,4.833,7.928,86,19.3,View Profile,cloudy and chilly
+439,Jack,Miller,CA,2020,QB,"6'4""",157,5.173,4.546,7.591,102,23.9,View Profile,cloudy and chilly
+440,Marcus,Miller,CA,2020,OT,"6'3""",243,5.521,5.023,7.942,94,20.8,View Profile,cloudy and chilly
+441,Seth,Miller,CA,2019,S,"6'1""",156,,4.592,7.375,104,,View Profile,cloudy and chilly
+442,Walter,Mims,CA,2021,RB,"5'5""",157,5.694,5.285,8.356,81,20.3,View Profile,cloudy and chilly
+443,Alphonzo,Mitchell,CA,2019,OLB,"5'10""",222,5.625,5.179,8.627,76,16.8,,cloudy and chilly
+444,Dusty,Mitchell,CA,2019,OLB,"6'2""",198,4.764,4.371,7.403,125,32,View Profile,cloudy and chilly
+445,Canaan,Moala,CA,2020,CB,"5'7""",117,5.03,4.705,7.967,93,22.1,View Profile,cloudy and chilly
+446,Auggie,Molina,CA,2019,OG,"5'7""",238,6.05,5.386,8.833,79,16.4,View Profile,cloudy and chilly
+447,John,Monday,CA,2020,TE,"5'7""",139,5.876,5.558,8.903,84,15.7,,cloudy and chilly
+448,Ryan,Montano,CA,2020,OT,"6'1""",259,5.864,5.488,8.662,76,15.2,View Profile,cloudy and chilly
+449,Julian,Montes,CA,2020,S,"5'9""",128,5.104,5.037,8.347,95,21.7,View Profile,cloudy and chilly
+450,Anderson,Montoya,CA,2020,CB,"5'8""",144,5.09,4.573,7.844,95,23.7,View Profile,cloudy and chilly
+451,Andrew,Montoya,CA,2020,QB,"5'7""",127,5.201,5.057,8.16,97,23.5,,cloudy and chilly
+452,Judaea,Moon,CA,2019,MLB,"5'11""",235,5.26,4.803,7.94,99,26.5,,cloudy and chilly
+453,"Kenneth ""Ron""",Moore,CA,2020,DE,"6'4""",196,,,,,,,cloudy and chilly
+454,Randolph Rick,Moore,CA,2020,DE,"6'6""",230,,,,,,,cloudy and chilly
+455,Ryan,Moore,CA,2022,RB,"5'6""",133,5.661,4.933,8.085,87,,,cloudy and chilly
+456,Trevor,Moorman,CA,2020,QB,"6'1""",176,4.977,4.533,7.373,92,24.2,View Profile,cloudy and chilly
+457,Ezra,Morales,CA,2019,WR,"5'10""",148,4.988,4.655,7.7,103,23.4,,cloudy and chilly
+458,Manny,Morales,CA,2020,RB,"5'9""",143,5.177,4.518,8.237,105,25,View Profile,cloudy and chilly
+459,Marcelo,Morales,CA,2022,RB,"5'4""",123,4.882,4.507,7.719,106,26.9,View Profile,cloudy and chilly
+460,Julian,Morin,CA,2019,RB,"5'11""",177,4.865,4.503,7.591,102,26.6,View Profile,cloudy and chilly
+461,Colin,Moroney,CA,2020,OT,"6'3""",267,,,,,,,cloudy and chilly
+462,Jamarr,Morris,CA,2022,WR,"5'10""",143,5.25,4.697,8.103,96,20.2,View Profile,cloudy and chilly
+463,Jacob,Morton,CA,2019,QB,"6'0""",175,,,,,,View Profile,cloudy and chilly
+464,Jordan,Mueller,CA,2020,DE,"6'3""",225,5.386,4.751,7.789,91,20.4,View Profile,cloudy and chilly
+465,Avant,Muldrow,CA,2020,WR,"5'4""",141,4.883,4.433,7.333,116,29.1,View Profile,cloudy and chilly
+466,Connor,Murphy,CA,2019,OLB,"5'9""",186,5.276,4.749,7.765,109,25,View Profile,cloudy and chilly
+467,Izaiah,Nakanishi,CA,2020,WR,"5'8""",137,5.131,4.54,7.29,100,24.4,,cloudy and chilly
+468,Brennan,Namocot Ii,CA,2021,RB,"5'7""",142,5.099,4.374,7.768,91,19.6,View Profile,cloudy and chilly
+469,Elijah,Nash,CA,2019,MLB,"5'9""",191,5.363,4.563,7.776,98,22.9,,cloudy and chilly
+470,Micah,Nash,CA,2020,RB,"5'8""",134,5.519,4.77,8.215,91,20.9,,cloudy and chilly
+471,Cameron,Nelson,CA,2021,QB,"5'10""",134,5.66,5.015,8.271,83,18.9,,cloudy and chilly
+472,Michael,Nevarez,CA,2021,RB,"5'8""",155,5.447,4.922,7.925,84,18,View Profile,cloudy and chilly
+473,Alex,Nicholas,CA,2019,QB,"5'9""",159,4.903,4.433,7.562,92,29.2,View Profile,cloudy and chilly
+474,Ronald,Nieto,NV,2019,DE,"5'9""",218,5.363,4.824,8.084,105,26.6,,cloudy and chilly
+475,Christian,Nieves,CA,2019,WR,"5'5""",135,5.142,4.591,7.495,97,25.3,View Profile,cloudy and chilly
+476,Shamoun,Niusulu-Duncan,CA,2021,WR,"5'10""",164,5.262,4.934,8.026,95,25.4,View Profile,cloudy and chilly
+477,Te'Ron,Nix,CA,2022,WR,"5'9""",128,5.238,4.736,7.575,93,24.7,View Profile,cloudy and chilly
+478,Andre,Nolan-White,CA,2020,WR,"5'11""",174,5.288,4.576,7.743,90,20.7,View Profile,cloudy and chilly
+479,Treavon,Norton,CA,2020,CB,"5'10""",141,4.942,4.405,7.42,86,,,cloudy and chilly
+480,Malik,Nov,CA,2021,CB,"5'5""",128,4.923,4.111,7.403,101,23.4,View Profile,cloudy and chilly
+481,Vincent,Nunley Jr,CA,2021,S,"6'1""",153,5.235,4.427,7.156,108,20.9,,cloudy and chilly
+482,Dylan,Ochoa,CA,2020,MLB,"5'10""",163,5.148,4.489,7.47,93,22.1,View Profile,cloudy and chilly
+483,Jayson,Ochoa,CA,2020,TE,"5'11""",149,5.759,5.078,8.748,74,15.9,View Profile,cloudy and chilly
+484,Xavier,Ochoa,CA,2019,OT,"6'3""",279,5.742,5.479,8.655,76,18.3,View Profile,cloudy and chilly
+485,Darius,Odom-Pacheco,CA,2021,MLB,"5'10""",189,5.746,5.017,8.66,85,17.6,View Profile,cloudy and chilly
+486,Nolan,O'Harran,CA,2020,CB,"5'8""",150,5.07,4.405,7.227,108,25.6,,cloudy and chilly
+487,Josiah,Olson,CA,2020,OG,"5'8""",181,5.224,5.169,8.656,87,21.8,View Profile,cloudy and chilly
+488,Joseph,Olsson,CA,2020,CB,"5'11""",165,5.07,4.783,7.998,103,24.4,,cloudy and chilly
+489,Brent,Opp,CA,2020,QB,"6'0""",166,5.151,4.612,8.476,93,21.1,View Profile,cloudy and chilly
+490,Marcus,Ordunez,CA,2019,QB,"6'0""",175,4.861,4.343,7.245,114,28.7,,cloudy and chilly
+491,Anthony,Orgoglio,CA,2020,MLB,"5'10""",170,5.135,4.549,7.319,95,23.8,,cloudy and chilly
+492,Jden,Orr,CA,2020,CB,"5'9""",136,5.019,4.553,7.801,96,22.2,,cloudy and chilly
+493,Omar,Ortega,CA,2020,OT,"6'4""",253,5.766,5.331,8.723,105,26.2,View Profile,cloudy and chilly
+494,Amare,Padilla,CA,2021,RB,"5'8""",135,5.211,4.571,7.852,89,22.7,,cloudy and chilly
+495,Alani,Pahulu,UT,2022,RB,"5'5""",149,,,,,,View Profile,cloudy and chilly
+496,Bruce,Pahulu,UT,2020,DT,"5'10""",232,,,,,,,cloudy and chilly
+497,Wally,Palega,CA,2019,OG,"5'10""",282,6.413,5.438,9.106,76,15.9,View Profile,cloudy and chilly
+498,Isaiah,Pando,CA,2019,OT,"5'9""",264,6.329,5.151,9.287,80,18.2,View Profile,cloudy and chilly
+499,Nicholas,Parise,CA,2020,WR,"5'10""",157,,,,,,View Profile,cloudy and chilly
+500,Emmanuel,Parker,CA,2019,DE,"5'5""",183,,4.887,7.972,93,21.6,,cloudy and chilly
+501,Garrett,Parsons,NV,2022,QB,"5'7""",109,5.804,5.168,8.356,81,17.3,View Profile,cloudy and chilly
+502,Hunter,Parsons,NV,2021,QB,"6'3""",179,5.152,4.532,7.584,85,22.7,View Profile,cloudy and chilly
+503,Raymond,Pasina,CA,2020,DT,"6'0""",273,5.906,5.374,8.926,78,18.8,View Profile,cloudy and chilly
+504,Salio,Pasina,CA,2020,DE,"5'11""",236,5.728,4.9,8.333,82,21.4,,cloudy and chilly
+505,Sanne,Pasina,CA,2021,DT,"6'2""",218,5.773,5.146,8.788,82,17.4,,cloudy and chilly
+506,Brock,Paslay,CA,2020,QB,"6'2""",159,5.436,4.984,8.061,90,18.5,,cloudy and chilly
+507,Kesean,Patton,CA,2020,OLB,"5'5""",168,5.76,5.095,8.781,77,17,View Profile,cloudy and chilly
+508,Matthew,Pavon,CA,2019,WR,"5'9""",126,,4.936,,89,,,cloudy and chilly
+509,Jeremy,Payne,CA,2020,WR,"5'9""",156,5.086,4.798,8.109,97,21.4,View Profile,cloudy and chilly
+510,Samisoni,Peaua,NV,2019,WR,"6'3""",172,5.008,4.672,7.809,107,28.3,,cloudy and chilly
+511,Luciano,Pedini,MI,2019,MLB,,207,5.276,4.611,7.874,100,22.7,View Profile,cloudy and chilly
+512,Tristin,Pelletaire,CA,2020,WR,"5'8""",135,5.315,4.244,7.539,91,19.3,View Profile,cloudy and chilly
+513,Miguel,Pena,CA,2020,S,"5'10""",157,5.073,4.627,7.807,108,25.9,View Profile,cloudy and chilly
+514,Roman,Perrin,CA,2020,TE,"6'3""",206,5.569,4.701,8.096,94,21.7,View Profile,cloudy and chilly
+515,Tien,Pham,CA,2020,OG,"5'10""",198,5.564,5.404,8.958,81,17.7,View Profile,cloudy and chilly
+516,Jabarii,Pharms,CA,2020,OLB,"5'9""",149,5.206,4.623,7.834,103,24.7,,cloudy and chilly
+517,Davey'On,Phillips,CA,2021,CB,"5'7""",136,4.888,4.399,7.6,104,31.5,,cloudy and chilly
+518,Hayden,Picard,ID,2020,WR,"5'9""",156,4.741,4.371,7.471,,32.3,,cloudy and chilly
+519,Carlin,Pierre,CA,2019,S,"5'11""",143,5.114,4.718,7.734,116,22.9,View Profile,cloudy and chilly
+520,Nick,Pine,CA,2020,WR,"5'11""",155,5.411,5.083,8.701,75,19.1,,cloudy and chilly
+521,Carlos,Pineda,CA,2019,DE,"5'7""",178,5.627,4.774,8.992,86,21.1,View Profile,cloudy and chilly
+522,Isaiah,Pitre,CA,2018,WR,"6'3""",206,4.647,4.433,7.195,114,29.5,View Profile,cloudy and chilly
+523,Darian Ioane,Pollard,CA,2020,WR,"5'11""",180,4.836,4.709,7.507,91,24,View Profile,cloudy and chilly
+524,Manuel,Ponce,CA,2020,WR,"5'9""",158,5.009,4.228,7.796,95,23.6,,cloudy and chilly
+525,Savion,Ponce,CA,2020,WR,"5'4""",124,4.698,4.183,7.149,104,25.5,View Profile,cloudy and chilly
+526,Robert,Porter,CA,2020,DT,"5'10""",197,5.954,5.483,8.96,80,20.1,,cloudy and chilly
+527,Ethan,Portillo,CA,2019,OT,"6'0""",264,6.665,5.992,9.437,60,15.4,View Profile,cloudy and chilly
+528,Frank,Poso,CA,2020,OT,,,,,,,,,cloudy and chilly
+529,Kyle,Pottgieser Selbst,CA,2019,OLB,"5'7""",156,5.579,4.922,8.32,79,16.9,,cloudy and chilly
+530,Cole,Powers,CA,2019,QB,"6'1""",154,5.175,4.443,7.325,100,23.4,,cloudy and chilly
+531,Carson,Prescott,CA,2020,OT,"6'1""",217,5.232,,8.456,88,23.1,,cloudy and chilly
+532,Jordan,Pringle,CA,2019,TE,"6'0""",217,5.064,4.901,8.405,101,25.9,,cloudy and chilly
+533,Silas,Proby,CA,2019,CB,"5'10""",150,4.733,4.218,6.946,94,26.1,,cloudy and chilly
+534,Jeremiah,Purdy,CA,2018,DT,"5'11""",243,5.207,4.999,8.142,84,23.5,,cloudy and chilly
+535,Christopher,Quach,CA,2019,RB,"5'6""",178,5.232,4.628,7.167,102,22,View Profile,cloudy and chilly
+536,Mark,Radke,CA,2019,WR,"5'10""",171,4.892,4.609,,,,View Profile,cloudy and chilly
+537,Joe,Rafter,CA,2021,LS,"6'0""",156,5.564,4.093,7.7,86,18.4,,cloudy and chilly
+538,Kyle,Rajala,CA,2019,QB,"6'2""",185,4.875,4.485,7.598,113,25,,cloudy and chilly
+539,Jesse,Ramirez,CA,2020,DE,"5'10""",193,5.392,4.811,8.194,96,23.7,View Profile,cloudy and chilly
+540,Julian,Ramirez,CA,2020,QB,"5'10""",162,5.21,4.503,7.699,98,22.5,View Profile,cloudy and chilly
+541,Ryan,Ramirez,CA,2021,RB,"5'11""",187,5.064,4.646,7.64,99,21.1,View Profile,cloudy and chilly
+542,Jaden,Ramos,CA,2020,WR,"5'4""",112,4.931,4.265,7.355,102,24.2,,cloudy and chilly
+543,Eddie,Rankin,CA,2019,CB,"5'10""",170,4.802,4.359,8.093,105,26.6,,cloudy and chilly
+544,Jesus,Rauda,CA,2020,FB,"5'8""",214,5.624,4.82,8.33,85,19.9,View Profile,cloudy and chilly
+545,Ben,Reade,CA,2020,WR,"5'8""",139,4.78,4.549,7.48,101,25.7,View Profile,cloudy and chilly
+546,Carlos,Reales,CA,2020,CB,"5'7""",140,5.7,4.755,7.783,92,20.4,,cloudy and chilly
+547,Nikko,Reed,CA,2021,WR,"5'8""",124,4.875,4.552,7.131,97,23.2,,cloudy and chilly
+548,Sione,Reed,CA,2021,DT,"6'2""",213,6.007,5.619,9.056,75,18,View Profile,cloudy and chilly
+549,Toni,Reed,CA,2020,DT,"6'2""",269,5.493,5.131,8.183,101,18.7,,cloudy and chilly
+550,Collin,Reid,UT,2018,WR,"6'0""",180,,,,,,View Profile,cloudy and chilly
+551,Nick,Reid,CA,2021,QB,"5'10""",142,5.446,4.649,7.772,86,20,,cloudy and chilly
+552,Tomas,Reyes,CA,2019,QB,"5'9""",181,5.296,5.352,8.893,92,21.4,,cloudy and chilly
+553,Will,Reyes,CA,2021,MLB,"5'5""",171,,,,,,,cloudy and chilly
+554,Jeremy,Richardson,CA,2021,OLB,"5'9""",188,5.377,5.044,8.191,80,23.1,View Profile,cloudy and chilly
+555,Carson,Rietmann,CA,2019,OG,"6'3""",245,5.627,5.023,8.385,91,20.9,,cloudy and chilly
+556,Elijah,Rios-Medina,CA,2021,OLB,"5'7""",154,5.652,4.182,8.052,91,17.2,,cloudy and chilly
+557,Lorenzo,Rivera,WA,2019,MLB,"6'0""",212,5.136,4.74,7.814,93,24.6,View Profile,cloudy and chilly
+558,Victor,Rivera,CA,2020,CB,"5'6""",149,4.965,4.836,7.893,99,24.3,View Profile,cloudy and chilly
+559,Vincent,Rivera,CA,2020,S,"5'7""",159,5.084,4.757,7.619,110,26.4,View Profile,cloudy and chilly
+560,Daniel,Roanhorse,CA,2019,WR,"6'1""",170,5.033,4.177,6.652,113,32.9,View Profile,cloudy and chilly
+561,Amari,Roberson,CA,2020,OLB,"5'9""",149,,,,,,View Profile,cloudy and chilly
+562,Champ,Robertson,NV,2019,S,"5'10""",,,4.517,,113,32.5,View Profile,cloudy and chilly
+563,Kwaku,Robinson,UT,2019,WR,"5'7""",137,4.537,4.396,7.147,111,30.9,,cloudy and chilly
+564,Nick,Robinson,CA,2019,MLB,"6'0""",203,5.225,4.662,7.64,103,22.6,,cloudy and chilly
+565,Alonzo,Rodriguez,CA,2019,DT,"5'7""",194,5.673,4.74,8.148,74,18.7,,cloudy and chilly
+566,Ernie,Rodriguez,CA,2020,C,"5'7""",195,5.6,4.876,8.659,84,21.7,View Profile,cloudy and chilly
+567,Joseph,Rodriguez,CA,2020,WR,,,,,,101,21.8,,cloudy and chilly
+568,Gabriel,Roncancio,CA,2022,DT,"5'9""",147,5.996,5.505,8.87,73,17.7,View Profile,cloudy and chilly
+569,Enrique,Ruiz,CA,2019,RB,"5'5""",150,5.113,4.787,7.506,92,17,,cloudy and chilly
+570,Enrique,Ruiz-Sanchez,CA,2022,MLB,"5'5""",142,5.444,4.909,8.026,87,18.7,View Profile,cloudy and chilly
+571,Justin,Russell,CA,2019,WR,"5'5""",135,4.714,4.16,7.521,111,28.7,View Profile,cloudy and chilly
+572,Korey,Russell,CA,2019,WR,"5'9""",155,4.835,4.5,7.534,109,33.1,View Profile,cloudy and chilly
+573,Zeke,Saffar,CA,2021,RB,"5'9""",151,4.644,4.496,7.388,96,29.3,,cloudy and chilly
+574,Giovanni,Sanchez,CA,2020,MLB,"5'9""",186,5.478,4.846,8.238,96,20,,cloudy and chilly
+575,Sam,Sanders,CA,2019,MLB,"5'11""",182,,4.467,7.593,97,22.2,,cloudy and chilly
+576,Thomas,Sanders,CA,2019,OT,"5'11""",225,5.686,5.12,8.353,91,21,View Profile,cloudy and chilly
+577,Reese,Santana,CA,2020,RB,"5'11""",152,,4.48,7.605,111,24.6,View Profile,cloudy and chilly
+578,Jordan,Santos,CA,2019,DT,"6'1""",256,5.548,5.299,8.475,90,19.5,,cloudy and chilly
+579,Kai,Santos,CA,2022,OLB,"5'6""",151,5.061,4.788,7.95,94,21.4,,cloudy and chilly
+580,Mitchell,Sarmento,CA,2022,MLB,"5'8""",160,5.655,4.771,7.357,90,19.4,View Profile,cloudy and chilly
+581,Theron,Sarmento,CA,2021,WR,"5'7""",128,,4.504,7.629,107,23.4,,cloudy and chilly
+582,Hugh,Savage Iii,CA,2018,RB,"5'9""",149,,4.114,7.25,117,,View Profile,cloudy and chilly
+583,Clayton,Schaible,CA,2019,DT,"6'2""",264,5.642,5.052,8.224,94,21.7,View Profile,cloudy and chilly
+584,Blake,Schlessinger,CA,2021,MLB,"5'5""",145,5.169,4.779,8.08,85,21.9,View Profile,cloudy and chilly
+585,Zach,Schriefer,CA,2020,WR,"5'11""",182,5.079,4.656,7.622,99,27.1,,cloudy and chilly
+586,Gerald,Schufford,CA,2020,WR,"5'11""",160,,,,104,,View Profile,cloudy and chilly
+587,Will,Schwartz,CA,2019,TE,"6'2""",198,5.378,4.788,7.611,94,22.1,View Profile,cloudy and chilly
+588,Zackary,Scoggins,CA,2020,WR,"5'10""",139,4.994,4.473,7.388,110,25.2,,cloudy and chilly
+589,Genesys,Scott,CA,2022,WR,"5'8""",134,5.603,4.98,8.189,92,16.9,View Profile,cloudy and chilly
+590,Carlos,Sedano,CA,2019,OG,"5'10""",204,5.996,5.443,8.898,79,17.2,,cloudy and chilly
+591,Christian,Seeley,CA,2019,S,"5'7""",161,4.603,4.434,7.378,104,26.8,View Profile,cloudy and chilly
+592,Dylan,Seeley,CA,2021,FB,"5'8""",176,5.537,,,,,View Profile,cloudy and chilly
+593,Gunnar,Selover,CA,2019,QB,"6'0""",134,,,,100,22.7,View Profile,cloudy and chilly
+594,Trevion,Shadrick -Harris,CA,2019,CB,"6'0""",172,4.589,4.239,6.981,108,25.3,,cloudy and chilly
+595,Christopher,Shambourger,CA,2020,WR,"6'1""",179,5.168,4.781,7.616,97,21.8,View Profile,cloudy and chilly
+596,Jahsai,Shannon,CA,2021,RB,"5'10""",159,4.808,4.332,7.554,107,26,,cloudy and chilly
+597,Adam,Sharp,CA,2020,MLB,"5'7""",155,5.237,4.341,7.914,85,26.7,View Profile,cloudy and chilly
+598,Isaac,Sharp,CA,2019,RB,"5'10""",155,4.669,4.35,7.349,114,29.4,View Profile,cloudy and chilly
+599,Christopher,Shaw,CA,2019,OT,"6'2""",255,5.728,5.467,8.519,94,22.4,View Profile,cloudy and chilly
+600,Julian,Shearin-Sewell,CA,2022,CB,"5'5""",108,5.169,4.799,7.499,93,20.3,,cloudy and chilly
+601,Anthony,Shepherd,CA,2020,OT,"6'1""",244,5.643,5.436,8.848,75,18.1,,cloudy and chilly
+602,Javione’S,Shepherd,CA,2021,QB,"5'10""",158,4.896,4.339,7.375,100,23.6,View Profile,cloudy and chilly
+603,Quincy,Sherman,CA,2019,WR,"5'10""",178,,,,,,View Profile,cloudy and chilly
+604,Aaron,Shima,CA,2020,RB,"5'7""",154,5.046,4.676,7.455,100,23.6,,cloudy and chilly
+605,Dean,Shimel,CA,2019,OLB,"5'7""",142,4.949,4.52,7.634,112,26.1,View Profile,cloudy and chilly
+606,Robert,Silva,CA,2021,DE,"5'9""",211,5.734,4.966,8.265,84,20.4,,cloudy and chilly
+607,Rudy,Silva,CA,2019,C,"5'11""",215,5.761,5.404,9.189,79,17.3,View Profile,cloudy and chilly
+608,Keijon,Simpkins,CA,2021,WR,"5'9""",139,5.107,4.718,7.808,85,20.6,View Profile,cloudy and chilly
+609,Ian,Simpson,CA,2020,TE,"6'1""",209,5.171,4.552,7.544,101,22.6,View Profile,cloudy and chilly
+610,Chase,Sims,CA,2020,RB,"5'9""",181,,4.421,7.538,97,22.6,,cloudy and chilly
+611,Cameron,Skattebo,CA,2020,RB,"5'9""",181,4.916,4.428,7.365,114,27.8,,cloudy and chilly
+612,Nicholas,Small,CA,2019,QB,"5'10""",156,5.022,4.216,7.36,110,26.1,View Profile,cloudy and chilly
+613,Jared,Smallen,CA,2020,TE,"5'10""",165,5.667,5.42,8.895,73,18.5,View Profile,cloudy and chilly
+614,Maurice,Smalling Jr,CA,2022,CB,"5'7""",142,4.861,4.104,7.989,86,22.6,View Profile,cloudy and chilly
+615,Brennan,Smith,CA,2019,QB,"5'8""",145,5.218,4.89,7.983,98,25.3,,cloudy and chilly
+616,Donavan,Smith,CA,2020,FB,"5'5""",205,,4.952,8.011,,26.4,,cloudy and chilly
+617,Jordan,Smith,CA,2019,MLB,"6'0""",198,5.783,4.961,8.312,91,19.2,View Profile,cloudy and chilly
+618,Kahmi,Smith,CA,2022,MLB,"5'9""",196,6.122,5.609,9.109,71,14.6,,cloudy and chilly
+619,Montrell,Smith,CA,2020,S,"5'7""",156,5.059,4.441,7.643,102,,View Profile,cloudy and chilly
+620,Nicholas,Smith Jr,CA,2019,WR,"5'7""",154,4.795,4.411,7.447,104,23,,cloudy and chilly
+621,Christopher,Soderlund,CA,2020,OG,"6'1""",237,5.901,5.521,8.927,87,17.9,View Profile,cloudy and chilly
+622,Kevin,Somel,CA,2020,MLB,"5'9""",165,,,,,,,cloudy and chilly
+623,Stephen,soto,NV,2019,OLB,"5'11""",164,5.012,4.669,7.42,110,22.7,View Profile,cloudy and chilly
+624,Tayland,Sou,CA,2020,S,"5'6""",162,5.252,4.656,8.322,103,27.5,View Profile,cloudy and chilly
+625,Dominic,Spence,CA,2020,CB,"5'8""",131,4.897,4.491,7.406,96,23,View Profile,cloudy and chilly
+626,Luke,Splaine,CA,2019,MLB,,,4.89,,,112,,View Profile,cloudy and chilly
+627,Lawrence,Stell,CA,2022,QB,"5'11""",165,5.455,4.779,8.307,81,19,View Profile,cloudy and chilly
+628,Jordan,Stenson,CA,2021,MLB,"5'5""",221,6.065,5.6,9.225,82,18.9,View Profile,cloudy and chilly
+629,Johnnyray,Stephens,CA,2020,OT,"6'1""",252,5.777,4.218,8.552,92,21.6,View Profile,cloudy and chilly
+630,Jackson,Stewart,CA,2020,TE,"6'4""",229,5.386,5.088,8.076,91,20.4,View Profile,cloudy and chilly
+631,Jared,Stocker,CA,2020,QB,"5'11""",155,,4.433,,102,,,cloudy and chilly
+632,Logan,Stough,CA,2021,QB,"5'9""",132,4.703,4.334,7.351,112,27,View Profile,cloudy and chilly
+633,Owen,Street,CA,2021,RB,"5'7""",125,4.935,4.622,7.658,97,23.8,View Profile,cloudy and chilly
+634,Dom,Stuart,CA,2019,CB,"5'7""",146,5.164,4.649,7.765,91,22.2,,cloudy and chilly
+635,Calvin,Su’esu’e,CA,2021,WR,"6'0""",136,5.718,4.896,8.339,,,,cloudy and chilly
+636,Carson,Su’esu’e,CA,2022,WR,"6'0""",129,5.584,4.803,8.219,,,,cloudy and chilly
+637,Jesus,Suarez,CA,2019,MLB,"5'5""",167,5.624,4.864,8.235,90,19.5,,cloudy and chilly
+638,Bailey,Sulzer,CA,2019,MLB,"5'10""",193,4.897,4.252,7.192,113,27.5,View Profile,cloudy and chilly
+639,Dominick,Suniga,CA,2021,CB,"5'3""",118,5.016,4.726,7.717,98,24.3,,cloudy and chilly
+640,Joshua,Tadeo,CA,2020,WR,"5'10""",144,4.966,4.391,7.388,101,24.7,View Profile,cloudy and chilly
+641,Ezekiel,Tai,CA,2021,DE,"5'10""",181,6.173,5.087,8.494,77,18.3,,cloudy and chilly
+642,Michael,Taliauli,CA,2022,DT,"5'11""",233,5.976,5.316,8.63,78,17.2,View Profile,cloudy and chilly
+643,Christopher,Taliva'A,CA,2019,WR,"6'3""",214,5.382,5.019,8.15,93,22.2,View Profile,cloudy and chilly
+644,Darren,Tang,CA,2019,RB,"5'3""",143,4.975,4.972,8.064,85,23.6,View Profile,cloudy and chilly
+645,Daylan,Tanner,CA,2019,MLB,"6'0""",236,6.28,5.419,8.96,80,17,,cloudy and chilly
+646,Jacob,Tanori,CA,2020,S,"5'11""",162,,,,,,View Profile,cloudy and chilly
+647,Kitione,Tau,CA,2019,DT,"5'10""",222,5.24,4.643,7.686,105,27.6,,cloudy and chilly
+648,Daniel,Taumoepeau,UT,2021,DE,"5'10""",160,4.992,4.666,7.716,105,23.4,View Profile,cloudy and chilly
+649,Mosiah,Taumoepeau,UT,2020,S,"5'10""",158,5.391,4.773,8.133,95,24.1,View Profile,cloudy and chilly
+650,Taliai,Taumoepeau,UT,2019,S,"5'10""",158,4.98,4.554,7.076,100,24.6,View Profile,cloudy and chilly
+651,Damian,Taylor,CA,2021,DE,"6'0""",190,5.706,5.188,8.713,99,18.5,View Profile,cloudy and chilly
+652,Jauheem,Taylor,CA,2020,RB,"5'10""",166,4.745,4.61,7.894,102,21.5,,cloudy and chilly
+653,Sebastian,Taylor-Smith,CA,2018,S,"6'0""",176,5.224,4.71,7.613,100,24.3,View Profile,cloudy and chilly
+654,Zachary,Taylor-Smith,CA,2020,QB,"6'2""",188,,,,,,,cloudy and chilly
+655,Jerrell,Teague,CA,2019,WR,"5'7""",179,,,,,,View Profile,cloudy and chilly
+656,Travis,Tedder,CA,2019,DE,"5'10""",200,,4.742,7.711,95,23.4,,cloudy and chilly
+657,Ryan,Teixeira,AE,2019,QB,"5'10""",167,5.15,4.534,7.614,102,25.5,View Profile,cloudy and chilly
+658,Jalen,Terry,CA,2019,OG,"6'2""",250,5.98,5.676,9.278,96,23.7,View Profile,cloudy and chilly
+659,Jermaine,Terry,CA,2021,TE,"6'3""",208,5.481,4.893,8.028,100,21.7,View Profile,cloudy and chilly
+660,Viliami Juju,Teu,CA,2022,MLB,"5'7""",151,5.424,4.718,8.114,87,21,View Profile,cloudy and chilly
+661,Taron,Thang,CA,2021,OLB,"5'6""",131,5.027,4.816,8.395,90,23.5,View Profile,cloudy and chilly
+662,Janias,Thomas,CA,2020,RB,"5'11""",184,5.09,4.608,7.596,107,25.3,View Profile,cloudy and chilly
+663,Quvonte,Thomas,CA,2020,WR,"5'8""",179,5.035,4.707,7.649,99,25.1,,cloudy and chilly
+664,Daniel,Thompson,CA,2018,WR,"5'5""",143,5.093,4.472,7.438,98,23,View Profile,cloudy and chilly
+665,Harrison,Thompson,CA,2019,RB,"5'9""",142,5.145,4.712,7.835,99,19.7,,cloudy and chilly
+666,Howard,Thompson,CA,2019,WR,"5'8""",135,5.043,4.874,7.621,101,20.6,,cloudy and chilly
+667,Andrew,Thorne,CA,2020,MLB,"5'7""",158,5.281,4.806,7.991,96,22,,cloudy and chilly
+668,Samu,Timoteo,CA,2021,OG,"5'10""",246,6.554,6.073,10.011,67,17.3,View Profile,cloudy and chilly
+669,Kimahni,Tolefree,CA,2019,WR,"5'8""",145,5.126,4.492,7.465,107,24.7,View Profile,cloudy and chilly
+670,Damien,Tom,CA,2020,DT,"6'1""",230,5.536,4.849,7.988,101,19.8,,cloudy and chilly
+671,Henry,Tom,CA,2019,WR,"6'2""",154,5.014,4.61,7.822,102,25,View Profile,cloudy and chilly
+672,Kevin,Ton,CA,2020,C,"6'2""",196,5.953,5.251,8.757,84,21.9,View Profile,cloudy and chilly
+673,Kasimili “Baby”,Tongamoa,CA,2020,MLB,"5'10""",222,5.511,4.886,8.498,86,19.5,View Profile,cloudy and chilly
+674,Michael,Torres,CA,2019,OG,"5'10""",231,5.6,5.318,8.516,81,18.5,,cloudy and chilly
+675,Carlos,Tovar,CA,2019,CB,"5'7""",139,5.022,4.334,7.556,102,25.5,,cloudy and chilly
+676,Jacob,Trach,CA,2019,RB,"5'7""",149,4.623,4.241,6.812,106,32,View Profile,cloudy and chilly
+677,Christopher,Trevino,CA,2020,C,"5'8""",219,5.835,5.105,8.426,79,18.3,View Profile,cloudy and chilly
+678,Curtis,Trimble Jr.,CA,2021,QB,"5'10""",130,,4.77,7.791,98,,,cloudy and chilly
+679,Cole,Truex,AE,2019,OLB,"6'1""",194,,,7.434,109,,View Profile,cloudy and chilly
+680,Luisa,Tuaua,CA,2020,OLB,"5'9""",156,,,,,,,cloudy and chilly
+681,Tunu,Tupuola,CA,2021,DT,"5'11""",291,6.045,5.793,9.891,74,15.3,View Profile,cloudy and chilly
+682,Conner,Turner,UT,2019,QB,"5'10""",157,,4.604,7.28,117,29.6,View Profile,cloudy and chilly
+683,Mal,Turner,CA,2021,QB,"5'3""",131,5.921,4.829,8.524,78,18.3,,cloudy and chilly
+684,Charles,Turner Iii,CA,2021,CB,"5'10""",126,5.302,4.755,8.189,87,20.5,View Profile,cloudy and chilly
+685,Toren,Tuttle,OR,2020,QB,"6'0""",170,,4.491,,112,,View Profile,cloudy and chilly
+686,Elijah,Twegbe,CA,2019,RB,"5'9""",158,4.914,4.332,7.66,120,30.3,View Profile,cloudy and chilly
+687,Tavake (Tj),Uasike,CA,2020,TE,"6'2""",217,5.602,4.611,7.836,87,18.7,View Profile,cloudy and chilly
+688,George,Udo,CA,2019,OLB,"5'11""",183,4.454,4.182,7.582,132,36.5,,cloudy and chilly
+689,Torren,Union,AZ,2019,CB,"6'0""",164,5.091,4.354,7.747,104,26.4,View Profile,cloudy and chilly
+690,Tannen,Vagle,CA,2019,TE,"6'1""",197,5.112,4.762,7.474,95,22.7,,cloudy and chilly
+691,Alejandro,Valencia,CA,2021,S,"5'8""",127,5.096,4.68,7.811,94,23.2,,cloudy and chilly
+692,Edgar,Valencia,CA,2019,OLB,"5'10""",176,4.986,4.7,7.322,108,27.1,View Profile,cloudy and chilly
+693,Jose,Valencia,CA,2022,MLB,"5'5""",137,6.012,5.263,9.075,79,17.7,,cloudy and chilly
+694,Daniel,Valentine,CA,2020,WR,"6'0""",181,5.125,4.663,7.702,98,22,View Profile,cloudy and chilly
+695,Christofer,Valiente,CA,2019,OG,"5'9""",225,5.408,4.777,8.321,96,21.8,View Profile,cloudy and chilly
+696,Fernando,Vargas,CA,2019,TE,"5'8""",159,5.313,4.519,7.399,95,20.5,,cloudy and chilly
+697,Tyler,Vargas,CA,2019,WR,"5'6""",133,4.957,4.413,7.437,110,26.2,View Profile,cloudy and chilly
+698,Xavier,Vasquez,CA,2019,RB,"5'9""",166,5.216,5.007,7.978,94,24,,cloudy and chilly
+699,Nicholas (Nick),Veach,CA,2020,RB,"5'10""",180,5.16,4.607,7.849,100,24.4,,cloudy and chilly
+700,AJ,Velasquez,CA,2020,RB,"5'7""",178,5.418,4.68,7.766,96,20.9,,cloudy and chilly
+701,Alejandro,Velazquez,CA,2020,MLB,"5'9""",173,5.164,4.744,7.962,97,23.1,View Profile,cloudy and chilly
+702,Diego,Velazquez,CA,2020,RB,"5'10""",179,5.111,5.097,8.187,101,21.9,,cloudy and chilly
+703,Tyson,Vida,CA,2021,CB,"5'5""",147,5.504,4.638,8.024,90,28.3,,cloudy and chilly
+704,Maximuss,Villalobos,CA,2019,FB,"5'6""",182,5.48,4.849,8.12,87,19.1,,cloudy and chilly
+705,Mambaloa-Jakhari,Vinson,CA,2018,OLB,"5'10""",190,5.85,5.352,9.134,77,20.7,,cloudy and chilly
+706,Nicolas,Visser,CA,2019,QB,"6'2""",192,5.301,4.676,7.619,91,22.8,View Profile,cloudy and chilly
+707,Ayush,Vyas,CA,2019,OG,"5'10""",254,5.897,5.201,8.609,80,21,,cloudy and chilly
+708,Jaysn,Wade,CA,2020,CB,"5'9""",150,4.809,4.362,7.337,108,25.1,View Profile,cloudy and chilly
+709,Brandon,Wafer,CA,2020,WR,"5'8""",145,4.783,4.731,7.698,109,21.7,View Profile,cloudy and chilly
+710,Matthew,Wallace,HI,2021,MLB,"5'10""",181,5.318,4.578,8.021,89,19.4,View Profile,cloudy and chilly
+711,"Jason ""Junior""","Walling, Jr.",OR,2020,OLB,"6'1""",204,,,,,,View Profile,cloudy and chilly
+712,Isaiah,Ward,CA,2019,OLB,"6'1""",192,5.06,4.303,7.501,108,23.7,View Profile,cloudy and chilly
+713,O'Shea,Ward,CA,2020,MLB,"5'7""",160,,,,,,,cloudy and chilly
+714,Dante,Warfield,CA,2019,RB,"5'11""",157,,,,,,View Profile,cloudy and chilly
+715,Dylan,Warfield,CA,2020,RB,"6'0""",169,,,,,,View Profile,cloudy and chilly
+716,Sam,Warren,CA,2019,QB,"5'10""",183,,,,,,View Profile,cloudy and chilly
+717,Dalton,Warswick,NV,2019,RB,"5'8""",189,4.88,4.024,7.403,109,27.6,View Profile,cloudy and chilly
+718,Tyrei,Washington,CA,2021,RB,"5'7""",180,5.277,4.83,8.168,97,20.5,,cloudy and chilly
+719,Clayton,Watterson,CA,2019,OLB,"5'8""",184,5.233,4.841,7.982,99,24.3,View Profile,cloudy and chilly
+720,Kevyn,Weaver,CA,2020,RB,"5'6""",130,5.189,4.142,7.648,92,22.4,,cloudy and chilly
+721,Jacob,Weldon,CA,2019,WR,"5'9""",138,,,,,,View Profile,cloudy and chilly
+722,Luke,Weller,WA,2019,MLB,"5'11""",231,5.744,4.567,8.441,90,21,View Profile,cloudy and chilly
+723,Adrian,White,CA,2020,WR,"5'8""",132,5.219,4.464,7.545,104,23.7,View Profile,cloudy and chilly
+724,Cj,White,CA,2021,TE,"6'0""",261,6.565,5.839,9.702,66,14.4,,cloudy and chilly
+725,Kole,White,CA,2021,CB,"5'9""",137,5.364,4.874,7.614,87,22,View Profile,cloudy and chilly
+726,Samari,White,CA,2021,WR,"5'5""",125,5.03,4.662,7.619,97,24.9,View Profile,cloudy and chilly
+727,Sean,White,CA,2020,S,"5'6""",153,5.082,4.64,7.517,99,25.9,View Profile,cloudy and chilly
+728,Dalton,Whiteley,CA,2020,RB,"5'10""",179,4.984,4.768,7.42,96,21.5,View Profile,cloudy and chilly
+729,Areon,Williams,CA,2021,S,"5'10""",143,4.969,4.657,8.112,97,26,,cloudy and chilly
+730,Jeremiah,Williams,CA,2020,CB,"5'7""",112,5.199,4.574,7.808,99,26.2,,cloudy and chilly
+731,Jonathan,Williams,CA,2019,RB,"5'7""",169,5.277,4.892,7.797,87,20.5,View Profile,cloudy and chilly
+732,Marcus,Williams,CA,2019,WR,"5'7""",151,,4.277,7.254,113,27.2,,cloudy and chilly
+733,Mychal,Williams,CA,2019,S,"5'10""",194,4.882,4.416,7.539,95,27.5,,cloudy and chilly
+734,Terrell,Williams,CA,2020,CB,"5'11""",156,,,,,,View Profile,cloudy and chilly
+735,Tj,Willson,CA,2021,WR,"5'7""",132,5.135,4.714,7.67,98,23.5,View Profile,cloudy and chilly
+736,Joseph,Wilson,CA,2019,RB,"5'10""",159,5.114,4.48,7.564,97,19.1,View Profile,cloudy and chilly
+737,Kekoa,Wilson,CA,2020,MLB,"5'6""",187,5.516,4.914,8.106,84,18.7,,cloudy and chilly
+738,Treyvon,Wilson,CA,2020,OLB,"5'11""",193,5.174,5.106,8.565,96,22,View Profile,cloudy and chilly
+739,Tyler,Winslow,CA,2019,MLB,"5'10""",198,,,,,,,cloudy and chilly
+740,Pati,Wolfgramm,CA,2020,RB,"5'11""",189,5.129,4.734,8.242,100,26.2,View Profile,cloudy and chilly
+741,Rahsaan,Woodland Ii,CA,2022,RB,"5'8""",162,4.796,4.61,7.271,88,25.5,View Profile,cloudy and chilly
+742,Edward,Woods,CA,2020,CB,"5'10""",161,4.877,4.665,7.716,104,23.6,View Profile,cloudy and chilly
+743,John,Wu,CA,2020,MLB,"5'9""",170,5.145,5.108,8.235,92,19.5,View Profile,cloudy and chilly
+744,Jiawu,Xie,CA,2020,CB,"5'5""",120,4.92,4.537,7.994,102,25,View Profile,cloudy and chilly
+745,Guillermo,Yco,CA,2019,WR,"6'1""",152,5.267,4.645,7.71,99,20.7,,cloudy and chilly
+746,Carlos,Young,CA,2020,TE,"5'10""",180,5.224,4.718,7.686,95,18.6,,cloudy and chilly
+747,Jose,Zanudo,CA,2019,CB,"5'10""",147,5.346,4.627,8.365,80,22.6,View Profile,cloudy and chilly
