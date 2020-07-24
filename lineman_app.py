@@ -48,7 +48,7 @@ st.write(input_df)
 
 # Reads in saved classification model
 def load_models():
-    file_name = "Models/model_file.p"
+    file_name = "model_file.p"
     with open(file_name, 'rb') as pickled:
         data = pickle.load(pickled)
         model = data['model']
