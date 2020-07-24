@@ -1,2 +1,13 @@
-# Football-Position-Classification
-Repo for in progress football position classifier project
+# Football-Position-Classification: https://lineman-classification-app.herokuapp.com/
+- Created a tool that estimates whether or not a player is physically fit to play the lineman position in football (offensive or defensive) with 90% accuracy to help high school football coaches evaluate players.
+- Scraped over 12,000 high school football player combine results from [NCSA Sports](https://www.ncsasports.org/football/combine-results) using BeautifulSoup. 
+- Cleaned, prepared, and visualized the data using Python.
+- Built baseline classification models and optimized Logistic Regression, K Nearest Neighbors, and Random Forest using RandomizedsearchCV and GridsearchCV. 
+- Build a client facing API using Flask. 
+- Deployed a server side API using Streamlit and Heroku.
+
+# Define The Problem
+<p> Many coaches, of all sports, face a difficult task in evaluating players at tryouts. Especially in high school, there are a wide variety of players and skillsets with a low amount of spots on the team with a variety of positions. Coaches are faced with seeing players at tryouts, which usually last just one or two days, and putting them into the best position to help the team. </p>
+<p> Often times coaches will just have the baseline performance metrics for each player such as a player's 40 yard dash time, broad jump, or shuttle run. Although these drills are effective and even used as judgement in the NFL, they do not display a player's football knowledge, technique, skill, or how they match up to the opponent/other players at the position. The tool I have created allows coaches, or even the players themselves, to put in an individual's height, weight, and performance on baseline athletic drills and the tool will predict whether the player is physically comparable to other lineman. </p>
+<p> The lineman position is an important one. Out of the 22 players on the field, usually about 9 or 10 of them are lineman. Lineman, both offensive and defensive, are the biggest players on the field and the best lineman excel with strength, quickness, and power. The position is often overlooked, but often times it deems the most important position group on the field. If one player makes a mistake, especially on the offensive side, the play and ultimately the game can be drastically changed. </p>
+<p> This position was chosen in the use of the model because it is a position that is more about the pure physicality of a player rather than skill. For example, a coach would want to prioritze a wide receivers catching ability first, then take their physicality into consideration.  NCSA Sports did not test skill drills at their high school combines, so the lineman position had the best use case for this dataset. </p>
