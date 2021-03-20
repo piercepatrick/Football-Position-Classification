@@ -2,7 +2,7 @@ certifi==2020.6.20
 click==7.1.2
 Flask==1.1.2
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 joblib @ file:///tmp/build/80754af9/joblib_1594236160679/work
 MarkupSafe @ file:///C:/ci/markupsafe_1594405949945/work
 mkl-fft==1.1.0
